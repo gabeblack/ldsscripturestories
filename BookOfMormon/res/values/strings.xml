@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BookOfMormonActivity!</string>
+    <string name="app_name">Book of Mormon Stories</string>
+    <string name="menu_download">Download</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_clear_cache">Clear Cached Files</string>
+    <string name="menu_cancel_download">Cancel Download</string>
+
+</resources>

@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="qualityArray">
+   <item>360p</item>
+   <item>720p</item>
+   <item>1080p</item>
+</string-array>
+ 
+<string-array name="mediaTypeArray">
+   <item>mp4</item>
+   <item>wmv</item>
+</string-array>
+
+<string-array name="languageArray">
+   <item>Deutsch</item>
+   <item>English</item>
+   <item>Español</item>
+   <item>Français</item>
+   <item>Italiano</item>
+   <item>Português</item>
+   <item>Русский</item>
+   <item>國語</item>
+   <item>廣東話</item>
+   <item>日本語</item>
+   <item>한국어</item>
+</string-array>
+
+<string-array name="languageValues">
+   <item>deu</item>
+   <item>eng</item>
+   <item>spa</item>
+   <item>fra</item>
+   <item>ita</item>
+   <item>por</item>
+   <item>rus</item>
+   <item>cmn</item>
+   <item>yue</item>
+   <item>jpn</item>
+   <item>kor</item>
+</string-array>
+<string-array name="engTitles">
+	<item>Introduction</item>
+	<item>Chapter 1</item>
+	<item>Chapter 2</item>
+	<item>Chapter 3</item>
+	<item>Chapter 4</item>
+	<item>Chapter 5</item>
+	<item>Chapter 6</item>
+	<item>Chapter 7</item>
+	<item>Chapter 8</item>
+	<item>Chapter 9</item>
+	<item>Chapter 10</item>
+	<item>Chapter 11</item>
+	<item>Chapter 12</item>
+	<item>Chapter 13</item>
+	<item>Chapter 14</item>
+	<item>Chapter 15</item>
+	<item>Chapter 16</item>
+	<item>Chapter 17</item>
+	<item>Chapter 18</item>
+	<item>Chapter 19</item>
+	<item>Chapter 20</item>
+	<item>Chapter 21</item>
+	<item>Chapter 22</item>
+	<item>Chapter 23</item>
+	<item>Chapter 24</item>
+	<item>Chapter 25</item>
+	<item>Chapter 26</item>
+	<item>Chapter 27</item>
+	<item>Chapter 28</item>
+	<item>Chapter 29</item>
+	<item>Chapter 30</item>
+	<item>Chapter 31</item>
+	<item>Chapter 32</item>
+	<item>Chapter 33</item>
+	<item>Chapter 34</item>
+	<item>Chapter 35</item>
+	<item>Chapter 36</item>
+	<item>The First Parable</item>
+	<item>The Second Parable</item>
+	<item>The Third Parable</item>
+	<item>Chapter 37</item>
+	<item>Chapter 38</item>
+	<item>Chapter 39</item>
+	<item>Chapter 40</item>
+	<item>Chapter 41</item>
+	<item>Chapter 42</item>
+	<item>Chapter 43</item>
+	<item>Chapter 44</item>
+	<item>Chapter 45</item>
+	<item>Chapter 46</item>
+	<item>Chapter 47</item>
+	<item>Chapter 48</item>
+	<item>Chapter 49</item>
+	<item>Chapter 50</item>
+	<item>Chapter 51</item>
+	<item>Chapter 52</item>
+	<item>Chapter 53</item>
+	<item>Chapter 54</item>
+	<item>Chapter 55</item>
+	<item>Chapter 56</item>
+	<item>Chapter 57</item>
+	<item>Chapter 58</item>
+	<item>Chapter 59</item>
+	<item>Chapter 60</item>
+	<item>Chapter 61</item>
+	<item>Chapter 62</item>
+	<item>Chapter 63</item>
+	<item>After the New Testament </item>
+</string-array>
+
+<string-array name="engDescriptions">
+	<item> Our Heavenly Father\'s    Plan </item>
+	<item> Elisabeth and Zacharias </item>
+	<item> Mary and the Angel </item>
+	<item> John the Baptist Is Born </item>
+	<item> Joseph and the Angel </item>
+	<item> Jesus Christ Is Born </item>
+	<item> Presentation at the    Temple </item>
+	<item> The Wise Men </item>
+	<item> Wicked King Herod </item>
+	<item> The Boy Jesus </item>
+	<item> Jesus Is Baptized </item>
+	<item> Jesus    Is Tempted </item>
+	<item> The Wedding in Cana </item>
+	<item> Jesus and His Heavenly    Father\'s House </item>
+	<item> Nicodemus </item>
+	<item> The Woman at the Well </item>
+	<item> The Leader\'s Son </item>
+	<item> Angry People in Nazareth </item>
+	<item> Jesus Chooses His    Apostles </item>
+	<item> The Sermon on the Mount </item>
+	<item> Jesus Teaches about    Prayer </item>
+	<item> Jesus Commands the Winds and    the Waves </item>
+	<item> The Man with the Evil    Spirits </item>
+	<item> The Man Who Could Not    Walk </item>
+	<item> Jairus\'s Daughter Is Raised    from the Dead </item>
+	<item> A Woman Touches Jesus\'s    Clothes </item>
+	<item> Jesus Forgives a Woman </item>
+	<item> Doing His Father\'s Work on    Earth </item>
+	<item> Jesus Feeds 5,000 People </item>
+	<item> Jesus Walks on the Water </item>
+	<item> The Bread of Life </item>
+	<item> Jesus    Heals a Deaf Man </item>
+	<item> Peter Testifies of    Christ </item>
+	<item> The    Transfiguration </item>
+	<item> The Boy with an Evil    Spirit </item>
+	<item> The Good Samaritan </item>
+	<item> Jesus Tells Three    Parables </item>
+	<item> The Lost Sheep </item>
+	<item> The Lost Coin </item>
+	<item> The Lost Son </item>
+	<item> The Ten Lepers </item>
+	<item> The Pharisee and the    Publican </item>
+	<item> Jesus Heals a Blind Man </item>
+	<item> The Good Shepherd </item>
+	<item> Jesus Blesses the Children </item>
+	<item> The Rich Young Man </item>
+	<item> Jesus Brings Lazarus Back to    Life </item>
+	<item> The Savior Goes to    Jerusalem </item>
+	<item> The Widow\'s Mites </item>
+	<item> The Second Coming </item>
+	<item> The Ten Virgins </item>
+	<item> The Talents </item>
+	<item> The First Sacrament </item>
+	<item> Other Teachings at the Last    Supper </item>
+	<item> Jesus    Suffers in the Garden of Gethsemane </item>
+	<item> The Trials of Jesus </item>
+	<item> Jesus is Crucified </item>
+	<item> Jesus Is Risen </item>
+	<item> The Apostles Lead the    Church </item>
+	<item> Peter Heals a Man </item>
+	<item> Wicked Men Kill Stephen </item>
+	<item> Simon and the Priesthood </item>
+	<item> Saul Learns about Jesus </item>
+	<item> Peter Brings Tabitha Back to    Life </item>
+	<item> Paul    and Silas in Prison </item>
+	<item> Paul Obeys the Holy    Ghost </item>
+	<item> Paul Finishes His    Mission </item>
+	<item>After the New Testament </item>
+</string-array>
+
+<string-array name="chapterFiles">
+	<item>2010-11-01-introduction-our-heavenly-fathers-plan</item>
+	<item>2010-11-02-chapter-1-elisabeth-and-zacharias</item>
+	<item>2010-11-03-chapter-2-mary-and-the-angel</item>
+	<item>2010-11-04-chapter-3-john-the-baptist-is-born</item>
+	<item>2010-11-05-chapter-4-joseph-and-the-angel</item>
+	<item>2010-11-06-chapter-5-jesus-christ-is-born</item>
+	<item>2010-11-07-chapter-6-presentation-at-the-temple</item>
+	<item>2010-11-08-chapter-7-the-wise-men</item>
+	<item>2010-11-09-chapter-8-wicked-king-herod</item>
+	<item>2010-11-10-chapter-9-the-boy-jesus</item>
+	<item>2010-11-11-chapter-10-jesus-is-baptized</item>
+	<item>2010-11-12-chapter-11-jesus-is-tempted</item>
+	<item>2010-11-13-chapter-12-the-wedding-in-cana</item>
+	<item>2010-11-14-chapter-13-jesus-and-his-heavenly-fathers-house</item>
+	<item>2010-11-15-chapter-14-nicodemus</item>
+	<item>2010-11-16-chapter-15-the-woman-at-the-well</item>
+	<item>2010-11-17-chapter-16-the-leaders-son</item>
+	<item>2010-11-18-chapter-17-angry-people-in-nazareth</item>
+	<item>2010-11-19-chapter-18-jesus-chooses-his-apostles</item>
+	<item>2010-11-20-chapter-19-the-sermon-on-the-mount</item>
+	<item>2010-11-21-chapter-20-jesus-teaches-about-prayer</item>
+	<item>2010-11-22-chapter-21-jesus-commands-the-winds-and-the-waves</item>
+	<item>2010-11-23-chapter-22-the-man-with-the-evil-spirits</item>
+	<item>2010-11-24-chapter-23-the-man-who-could-not-walk</item>
+	<item>2010-11-25-chapter-24-jairuss-daughter-is-raised-from-the-dead</item>
+	<item>2010-11-26-chapter-25-a-woman-touches-jesuss-clothes</item>
+	<item>2010-11-27-chapter-26-jesus-forgives-a-woman</item>
+	<item>2010-11-28-chapter-27-doing-his-fathers-work-on-earth</item>
+	<item>2010-11-29-chapter-28-jesus-feeds-5000-people</item>
+	<item>2010-11-30-chapter-29-jesus-walks-on-the-water</item>
+	<item>2010-11-31-chapter-30-the-bread-of-life</item>
+	<item>2010-11-32-chapter-31-jesus-heals-a-deaf-man</item>
+	<item>2010-11-33-chapter-32-peter-testifies-of-christ</item>
+	<item>2010-11-34-chapter-33-appearing-in-glory-the-transfiguration</item>
+	<item>2010-11-35-chapter-34-the-boy-with-an-evil-spirit</item>
+	<item>2010-11-36-chapter-35-the-good-samaritan</item>
+	<item>2010-11-37-chapter-36-jesus-tells-three-parables</item>
+	<item>2010-11-38-the-first-parable-the-lost-sheep</item>
+	<item>2010-11-39-the-second-parable-the-lost-coin</item>
+	<item>2010-11-40-the-third-parable-the-lost-son</item>
+	<item>2010-11-41-chapter-37-the-ten-lepers</item>
+	<item>2010-11-42-chapter-38-the-pharisee-and-the-publican</item>
+	<item>2010-11-43-chapter-39-jesus-heals-a-blind-man</item>
+	<item>2010-11-44-chapter-40-the-good-shepherd</item>
+	<item>2010-11-45-chapter-41-jesus-blesses-the-children</item>
+	<item>2010-11-46-chapter-42-the-rich-young-man</item>
+	<item>2010-11-47-chapter-43-jesus-brings-lazarus-back-to-life</item>
+	<item>2010-11-48-chapter-44-the-savior-goes-to-jerusalem</item>
+	<item>2010-11-49-chapter-45-the-widows-mites</item>
+	<item>2010-11-50-chapter-46-the-second-coming</item>
+	<item>2010-11-51-chapter-47-the-ten-virgins</item>
+	<item>2010-11-52-chapter-48-the-talents</item>
+	<item>2010-11-53-chapter-49-the-first-sacrament</item>
+	<item>2010-11-54-chapter-50-other-teachings-at-the-last-supper</item>
+	<item>2010-11-55-chapter-51-jesus-suffers-in-the-garden-of-gethsemane</item>
+	<item>2010-11-56-chapter-52-the-trials-of-jesus</item>
+	<item>2010-11-57-chapter-53-jesus-is-crucified</item>
+	<item>2010-11-58-chapter-54-jesus-is-risen</item>
+	<item>2010-11-59-chapter-55-the-apostles-lead-the-church</item>
+	<item>2010-11-60-chapter-56-peter-heals-a-man</item>
+	<item>2010-11-61-chapter-57-wicked-men-kill-stephen</item>
+	<item>2010-11-62-chapter-58-simon-and-the-priesthood</item>
+	<item>2010-11-63-chapter-59-saul-learns-about-jesus</item>
+	<item>2010-11-64-chapter-60-peter-brings-tabitha-back-to-life</item>
+	<item>2010-11-65-chapter-61-paul-and-silas-in-prison</item>
+	<item>2010-11-66-chapter-62-paul-obeys-the-holy-ghost</item>
+	<item>2010-11-67-chapter-63-paul-finishes-his-mission</item>
+	<item>2010-11-68-after-the-new-testament</item>
+</string-array>
+
+<string-array name="spaTitles">
+	<item>Introducción</item>
+	<item>Capítulo 1</item>
+	<item>Capítulo 2</item>
+	<item>Capítulo 3</item>
+	<item>Capítulo 4</item>
+	<item>Capítulo 5</item>
+	<item>Capítulo 6</item>
+	<item>Capítulo 7</item>
+	<item>Capítulo 8</item>
+	<item>Capítulo 9</item>
+	<item>Capítulo 10</item>
+	<item>Capítulo 11</item>
+	<item>Capítulo 12</item>
+	<item>Capítulo 13</item>
+	<item>Capítulo 14</item>
+	<item>Capítulo 15</item>
+	<item>Capítulo 16</item>
+	<item>Capítulo 17</item>
+	<item>Capítulo 18</item>
+	<item>Capítulo 19</item>
+	<item>Capítulo 20</item>
+	<item>Capítulo 21</item>
+	<item>Capítulo 22</item>
+	<item>Capítulo 23</item>
+	<item>Capítulo 24</item>
+	<item>Capítulo 25</item>
+	<item>Capítulo 26</item>
+	<item>Capítulo 27</item>
+	<item>Capítulo 28</item>
+	<item>Capítulo 29</item>
+	<item>Capítulo 30</item>
+	<item>Capítulo 31</item>
+	<item>Capítulo 32</item>
+	<item>Capítulo 33</item>
+	<item>Capítulo 34</item>
+	<item>Capítulo 35</item>
+	<item>Capítulo 36</item>
+	<item>La oveja perdida </item>
+	<item>La moneda perdida </item>
+	<item>El hijo perdido </item>
+	<item>Capítulo 37</item>
+	<item>Capítulo 38</item>
+	<item>Capítulo 39</item>
+	<item>Capítulo 40</item>
+	<item>Capítulo 41</item>
+	<item>Capítulo 42</item>
+	<item>Capítulo 43</item>
+	<item>Capítulo 44</item>
+	<item>Capítulo 45</item>
+	<item>Capítulo 46</item>
+	<item>Capítulo 47</item>
+	<item>Capítulo 48</item>
+	<item>Capítulo 49</item>
+	<item>Capítulo 50</item>
+	<item>Capítulo 51</item>
+	<item>Capítulo 52</item>
+	<item>Capítulo 53</item>
+	<item>Capítulo 54</item>
+	<item>Capítulo 55</item>
+	<item>Capítulo 56</item>
+	<item>Capítulo 57</item>
+	<item>Capítulo 58</item>
+	<item>Capítulo 59</item>
+	<item>Capítulo 60</item>
+	<item>Capítulo 61</item>
+	<item>Capítulo 62</item>
+	<item>Capítulo 63</item>
+	<item>Después del Nuevo Testamento</item>
+</string-array>
+
+<string-array name="spaDescriptions">
+	<item> El plan de nuestro Padre Celestial</item>
+	<item> Elisabet y Zacarías</item>
+	<item> María y el ángel</item>
+	<item> Nace Juan el Bautista</item>
+	<item> José y el ángel</item>
+	<item> Nace Jesucristo</item>
+	<item> La presentación en el templo </item>
+	<item> Los magos</item>
+	<item> El inicuo rey Herodes</item>
+	<item> El niño Jesús</item>
+	<item> El bautismo de Jesús</item>
+	<item> Tentación de Jesús</item>
+	<item> Las bodas de Caná</item>
+	<item> Jesús y la casa de Su Padre Celestial</item>
+	<item> Nicodemo</item>
+	<item> La mujer junto al pozo</item>
+	<item> El hijo del noble</item>
+	<item> Gente enojada en Nazaret</item>
+	<item> Jesús escoge a Sus apóstoles</item>
+	<item> El Sermón del Monte</item>
+	<item> Jesús enseña acerca de la oración</item>
+	<item> Jesús manda al viento y a las olas</item>
+	<item> El hombre con espíritus malos</item>
+	<item> El hombre que no podía caminar</item>
+	<item> La hija de Jairo es levantada de entre los muertos</item>
+	<item> Una mujer toca la ropa de Jesús</item>
+	<item> Jesús perdona a una mujer</item>
+	<item> Jesús hace la obra de Su Padre en la tierra</item>
+	<item> Jesús alimenta a cinco mil personas</item>
+	<item> Jesús anda sobre el agua</item>
+	<item> El Pan de Vida</item>
+	<item> Jesús sana a un hombre sordo</item>
+	<item> Pedro testifica de Cristo</item>
+	<item> La Transfiguración</item>
+	<item> El joven con un espíritu malo</item>
+	<item> El buen samaritano</item>
+	<item> Jesús relata tres parábolas </item>
+	<item>La oveja perdida </item>
+	<item>La moneda perdida </item>
+	<item>El hijo perdido </item>
+	<item> Los diez leprosos</item>
+	<item> El fariseo y el publicano</item>
+	<item> Jesús sana a un hombre ciego</item>
+	<item> El Buen Pastor</item>
+	<item> Jesús bendice a los niños</item>
+	<item> El joven rico</item>
+	<item> Jesús devuelve la vida a Lázaro</item>
+	<item> El Salvador va a Jerusalén</item>
+	<item> Las blancas de la viuda</item>
+	<item> La Segunda Venida</item>
+	<item> Las diez vírgenes</item>
+	<item> Los talentos</item>
+	<item> La primera Santa Cena</item>
+	<item> Otras enseñanzas en la Última Cena </item>
+	<item> Jesús padece en el jardín de Getsemaní</item>
+	<item> Los juicios de Jesús</item>
+	<item> La crucifixión de Jesús</item>
+	<item> Jesús resucita</item>
+	<item> Los apóstoles dirigen la Iglesia</item>
+	<item> Pedro sana a un hombre </item>
+	<item> Unos hombres inicuos matan a Esteban</item>
+	<item> Simón y el sacerdocio</item>
+	<item> Saulo aprende acerca de Jesús</item>
+	<item> Pedro devuelve la vida a Tabita</item>
+	<item> Pablo y Silas en prisión</item>
+	<item> Pablo obedece al Espíritu Santo </item>
+	<item> Pablo termina su misión</item>
+	<item>Después del Nuevo Testamento</item>
+</string-array>
+
+<string-array name="fraTitles">
+	<item>Introduction </item>
+	<item>Chapitre 1</item>
+	<item>Chapitre 2</item>
+	<item>Chapitre 3</item>
+	<item>Chapitre 4</item>
+	<item>Chapitre 5</item>
+	<item>Chapitre 6</item>
+	<item>Chapitre 7</item>
+	<item>Chapitre 8</item>
+	<item>Chapitre 9</item>
+	<item>Chapitre 10</item>
+	<item>Chapitre 11</item>
+	<item>Chapitre 12</item>
+	<item>Chapitre 13</item>
+	<item>Chapitre 14</item>
+	<item>Chapitre 15</item>
+	<item>Chapitre 16</item>
+	<item>Chapitre 17</item>
+	<item>Chapitre 18</item>
+	<item>Chapitre 19</item>
+	<item>Chapitre 20</item>
+	<item>Chapitre 21</item>
+	<item>Chapitre 22</item>
+	<item>Chapitre 23</item>
+	<item>Chapitre 24</item>
+	<item>Chapitre 25</item>
+	<item>Chapitre 26</item>
+	<item>Chapitre 27</item>
+	<item>Chapitre 28</item>
+	<item>Chapitre 29</item>
+	<item>Chapitre 30</item>
+	<item>Chapitre 31</item>
+	<item>Chapitre 32</item>
+	<item>Chapitre 33</item>
+	<item>Chapitre 34</item>
+	<item>Chapitre 35</item>
+	<item>Chapitre 36</item>
+	<item>La brebis perdue</item>
+	<item>La drachme perdue</item>
+	<item>Le fils prodigue</item>
+	<item>Chapitre 37</item>
+	<item>Chapitre 38</item>
+	<item>Chapitre 39</item>
+	<item>Chapitre 40</item>
+	<item>Chapitre 41</item>
+	<item>Chapitre 42</item>
+	<item>Chapitre 43</item>
+	<item>Chapitre 44</item>
+	<item>Chapitre 45</item>
+	<item>Chapitre 46</item>
+	<item>Chapitre 47</item>
+	<item>Chapitre 48</item>
+	<item>Chapitre 49</item>
+	<item>Chapitre 50</item>
+	<item>Chapitre 51</item>
+	<item>Chapitre 52</item>
+	<item>Chapitre 53</item>
+	<item>Chapitre 54</item>
+	<item>Chapitre 55</item>
+	<item>Chapitre 56</item>
+	<item>Chapitre 57</item>
+	<item>Chapitre 58</item>
+	<item>Chapitre 59</item>
+	<item>Chapitre 60</item>
+	<item>Chapitre 61</item>
+	<item>Chapitre 62</item>
+	<item>Chapitre 63</item>
+	<item>Après le Nouveau Testament</item>
+</string-array>
+
+<string-array name="fraDescriptions">
+	<item> Le plan de notre Père céleste</item>
+	<item> Élisabeth et Zacharie</item>
+	<item> Marie et l\'ange</item>
+	<item> La naissance de Jean-Baptiste</item>
+	<item> Joseph et l\'ange</item>
+	<item> La naissance de Jésus-Christ</item>
+	<item> La présentation au temple</item>
+	<item> Les mages</item>
+	<item> Le méchant roi Hérode</item>
+	<item> L\'enfant Jésus</item>
+	<item> Le baptême de Jésus</item>
+	<item> La tentation de Jésus</item>
+	<item> Les noces de Cana</item>
+	<item> Jésus et la maison de son Père céleste</item>
+	<item> Nicodème</item>
+	<item> La femme au puits</item>
+	<item> Le fils de l\'officier</item>
+	<item> La colère des habitants de Nazareth</item>
+	<item> Jésus choisit ses apôtres</item>
+	<item> Le sermon sur la montagne</item>
+	<item> Jésus enseigne la prière</item>
+	<item> Jésus commande au vent et aux vagues</item>
+	<item> L\'homme aux mauvais esprits</item>
+	<item> L\'homme qui ne pouvait pas marcher</item>
+	<item> La fille de Jaïrus est ramenée à la vie</item>
+	<item> Une femme touche les vêtements de Jésus</item>
+	<item> Jésus pardonne à une femme</item>
+	<item> Jésus accomplit l\'oeuvre de son Père ici-bas</item>
+	<item> Jésus nourrit 5 000 personnes</item>
+	<item> Jésus marche sur les eaux</item>
+	<item> Le pain de vie</item>
+	<item> Jésus guérit un sourd</item>
+	<item> Pierre témoigne du Christ</item>
+	<item> la transfiguration</item>
+	<item> Le garçon qui avait un mauvais esprit</item>
+	<item> Le bon Samaritain</item>
+	<item> Jésus raconte trois paraboles</item>
+	<item>La brebis perdue</item>
+	<item>La drachme perdue</item>
+	<item>Le fils prodigue</item>
+	<item> Les dix lépreux</item>
+	<item> Le pharisien et le publicain</item>
+	<item> Jésus guérit un aveugle</item>
+	<item> Le bon berger</item>
+	<item> Jésus bénit les enfants</item>
+	<item> Le jeune homme riche</item>
+	<item> Jésus ramène Lazare à la vie</item>
+	<item> Le Sauveur va à Jérusalem</item>
+	<item> Les deux petites pièces de la veuve</item>
+	<item> La Seconde Venue</item>
+	<item> Les dix vierges</item>
+	<item> Les talents</item>
+	<item> La première Sainte-Cène</item>
+	<item> Autres enseignements lors du dernier repas</item>
+	<item> Jésus souffre dans le jardin de Gethsémané</item>
+	<item> Les procès de Jésus</item>
+	<item> Jésus est crucifié</item>
+	<item> Jésus est ressuscité</item>
+	<item> Les apôtres dirigent l\'Église</item>
+	<item> Pierre guérit un homme</item>
+	<item> Des hommes méchants tuent Étienne</item>
+	<item> Simon et la prêtrise</item>
+	<item> Saul apprend qui est Jésus</item>
+	<item> Pierre ramène Tabitha à la vie</item>
+	<item> Paul et Silas en prison</item>
+	<item> Paul obéit au Saint-Esprit</item>
+	<item> Paul termine sa mission</item>
+	<item>Après le Nouveau Testament</item>
+</string-array>
+
+<string-array name="deuTitles">
+	<item>Einleitung</item>
+	<item>Kapitel 1</item>
+	<item>Kapitel 2</item>
+	<item>Kapitel 3</item>
+	<item>Kapitel 4</item>
+	<item>Kapitel 5</item>
+	<item>Kapitel 6</item>
+	<item>Kapitel 7</item>
+	<item>Kapitel 8</item>
+	<item>Kapitel 9</item>
+	<item>Kapitel 10</item>
+	<item>Kapitel 11</item>
+	<item>Kapitel 12</item>
+	<item>Kapitel 13</item>
+	<item>Kapitel 14</item>
+	<item>Kapitel 15</item>
+	<item>Kapitel 16</item>
+	<item>Kapitel 17</item>
+	<item>Kapitel 18</item>
+	<item>Kapitel 19</item>
+	<item>Kapitel 20</item>
+	<item>Kapitel 21</item>
+	<item>Kapitel 22</item>
+	<item>Kapitel 23</item>
+	<item>Kapitel 24</item>
+	<item>Kapitel 25</item>
+	<item>Kapitel 26</item>
+	<item>Kapitel 27</item>
+	<item>Kapitel 28</item>
+	<item>Kapitel 29</item>
+	<item>Kapitel 30</item>
+	<item>Kapitel 31</item>
+	<item>Kapitel 32</item>
+	<item>Kapitel 33</item>
+	<item>Kapitel 34</item>
+	<item>Kapitel 35</item>
+	<item>Kapitel 36</item>
+	<item>Das verlorene Schaf</item>
+	<item>Die verlorene Münze</item>
+	<item>Der verlorene Sohn</item>
+	<item>Kapitel 37</item>
+	<item>Kapitel 38</item>
+	<item>Kapitel 39</item>
+	<item>Kapitel 40</item>
+	<item>Kapitel 41</item>
+	<item>Kapitel 42</item>
+	<item>Kapitel 43</item>
+	<item>Kapitel 44</item>
+	<item>Kapitel 45</item>
+	<item>Kapitel 46</item>
+	<item>Kapitel 47</item>
+	<item>Kapitel 48</item>
+	<item>Kapitel 49</item>
+	<item>Kapitel 50</item>
+	<item>Kapitel 51</item>
+	<item>Kapitel 52</item>
+	<item>Kapitel 53</item>
+	<item>Kapitel 54</item>
+	<item>Kapitel 55</item>
+	<item>Kapitel 56</item>
+	<item>Kapitel 57</item>
+	<item>Kapitel 58</item>
+	<item>Kapitel 59</item>
+	<item>Kapitel 60</item>
+	<item>Kapitel 61</item>
+	<item>Kapitel 62</item>
+	<item>Kapitel 63</item>
+	<item>Die Zeit nach dem Neuen Testament</item>
+</string-array>
+
+<string-array name="deuDescriptions">
+	<item> Der Plan unseres himmlischen Vaters</item>
+	<item> Elisabet und Zacharias</item>
+	<item> Maria und der Engel</item>
+	<item> Johannes der Täufer wird geboren</item>
+	<item> Josef und der Engel</item>
+	<item> Jesus Christus wird geboren</item>
+	<item> Jesus wird im Tempel vorgestellt</item>
+	<item> Die Sterndeuter</item>
+	<item> Der schlechte König Herodes</item>
+	<item> Jesus als kleiner Junge</item>
+	<item> Jesus wird getauft</item>
+	<item> Jesus wird versucht</item>
+	<item> Die Hochzeit in Kana</item>
+	<item> Jesus und das Haus seines himmlischen Vaters</item>
+	<item> Nikodemus</item>
+	<item> Die Frau am Brunnen</item>
+	<item> Der Sohn des königlichen Beamten</item>
+	<item> Wütende Leute in Nazaret</item>
+	<item> Jesus erwählt seine Apostel</item>
+	<item> Die Bergpredigt</item>
+	<item> Jesus erklärt, wie man betet</item>
+	<item> Jesus gebietet dem Sturm und den Wellen</item>
+	<item> Der Besessene</item>
+	<item> Der Gelähmte</item>
+	<item> Jesus erweckt die Tochter des Jaïrus vom Tod</item>
+	<item> Eine Frau berührt das Gewand Jesu</item>
+	<item> Jesus vergibt einer Frau</item>
+	<item> Jesus tut das Werk des Vaters</item>
+	<item> Jesus speist fünftausend Menschen</item>
+	<item> Jesus geht auf dem Wasser</item>
+	<item> Das Brot des Lebens</item>
+	<item> Jesus heilt einen Taubstummen</item>
+	<item> Petrus gibt Zeugnis von Christus</item>
+	<item> die Verklärung</item>
+	<item> Der besessene Junge</item>
+	<item> Der barmherzige Samariter</item>
+	<item> Jesus erzählt drei Gleichnisse</item>
+	<item>Das verlorene Schaf</item>
+	<item>Die verlorene Münze</item>
+	<item>Der verlorene Sohn</item>
+	<item> Die zehn Aussätzigen</item>
+	<item> Der Pharisäer und der Zöllner</item>
+	<item> Jesus heilt einen Blinden</item>
+	<item> Der gute Hirt</item>
+	<item> Jesus segnet die Kinder</item>
+	<item> Der reiche junge Mann</item>
+	<item> Jesus erweckt Lazarus wieder zum Leben</item>
+	<item> Jesus geht nach Jerusalem</item>
+	<item> Das Opfer der Witwe</item>
+	<item> Das Zweite Kommen</item>
+	<item> Die zehn Jungfrauen</item>
+	<item> Das anvertraute Geld</item>
+	<item> Das erste Abendmahl</item>
+	<item> Weitere Lehren beim letzten Mahl</item>
+	<item> Das Leiden Jesu im Garten Getsemani</item>
+	<item> Jesus vor Gericht</item>
+	<item> Jesus wird gekreuzigt</item>
+	<item> Jesus ist auferstanden</item>
+	<item> Die Apostel führen die Kirche</item>
+	<item> Petrus heilt einen Kranken</item>
+	<item> Schlechte Menschen töten Stephanus</item>
+	<item> Simon und das Priestertum</item>
+	<item> Saulus erfährt von Jesus</item>
+	<item> Petrus erweckt Tabita wieder zum Leben</item>
+	<item> Paulus und Silas im Gefängnis</item>
+	<item> Paulus hört auf den Heiligen Geist</item>
+	<item> Paulus beendet seine Mission</item>
+	<item>Die Zeit nach dem Neuen Testament</item>
+</string-array>
+
+<string-array name="porTitles">
+	<item>Introdução</item>
+	<item>Capítulo 1</item>
+	<item>Capítulo 2</item>
+	<item>Capítulo 3</item>
+	<item>Capítulo 4</item>
+	<item>Capítulo 5</item>
+	<item>Capítulo 6</item>
+	<item>Capítulo 7</item>
+	<item>Capítulo 8</item>
+	<item>Capítulo 9</item>
+	<item>Capítulo 10</item>
+	<item>Capítulo 11</item>
+	<item>Capítulo 12</item>
+	<item>Capítulo 13</item>
+	<item>Capítulo 14</item>
+	<item>Capítulo 15</item>
+	<item>Capítulo 16</item>
+	<item>Capítulo 17</item>
+	<item>Capítulo 18</item>
+	<item>Capítulo 19</item>
+	<item>Capítulo 20</item>
+	<item>Capítulo 21</item>
+	<item>Capítulo 22</item>
+	<item>Capítulo 23</item>
+	<item>Capítulo 24</item>
+	<item>Capítulo 25</item>
+	<item>Capítulo 26</item>
+	<item>Capítulo 27</item>
+	<item>Capítulo 28</item>
+	<item>Capítulo 29</item>
+	<item>Capítulo 30</item>
+	<item>Capítulo 31</item>
+	<item>Capítulo 32</item>
+	<item>Capítulo 33</item>
+	<item>Capítulo 34</item>
+	<item>Capítulo 35</item>
+	<item>Capítulo 36</item>
+	<item>A Ovelha Perdida </item>
+	<item>A Dracma Perdida</item>
+	<item>O Filho Pródigo</item>
+	<item>Capítulo 37</item>
+	<item>Capítulo 38</item>
+	<item>Capítulo 39</item>
+	<item>Capítulo 40</item>
+	<item>Capítulo 41</item>
+	<item>Capítulo 42</item>
+	<item>Capítulo 43</item>
+	<item>Capítulo 44</item>
+	<item>Capítulo 45</item>
+	<item>Capítulo 46</item>
+	<item>Capítulo 47</item>
+	<item>Capítulo 48</item>
+	<item>Capítulo 49</item>
+	<item>Capítulo 50</item>
+	<item>Capítulo 51</item>
+	<item>Capítulo 52</item>
+	<item>Capítulo 53</item>
+	<item>Capítulo 54</item>
+	<item>Capítulo 55</item>
+	<item>Capítulo 56</item>
+	<item>Capítulo 57</item>
+	<item>Capítulo 58</item>
+	<item>Capítulo 59</item>
+	<item>Capítulo 60</item>
+	<item>Capítulo 61</item>
+	<item>Capítulo 62</item>
+	<item>Capítulo 63</item>
+	<item>Depois do Novo Testamento</item>
+</string-array>
+
+<string-array name="porDescriptions">
+	<item> O Plano do Nosso Pai Celestial</item>
+	<item> Isabel e Zacarias</item>
+	<item> Maria e o Anjo</item>
+	<item> O Nascimento de João Batista</item>
+	<item> José e o Anjo</item>
+	<item> O Nascimento de Jesus Cristo</item>
+	<item> A Apresentação no Templo</item>
+	<item> Os Reis Magos</item>
+	<item> O Iníquo Rei Herodes</item>
+	<item> O Menino Jesus</item>
+	<item> O Batismo de Jesus</item>
+	<item> Jesus É Tentado</item>
+	<item> As Bodas de Caná</item>
+	<item> Jesus e a Casa do Pai Celestial</item>
+	<item> Nicodemos</item>
+	<item> A Mulher na Fonte de Jacó</item>
+	<item> A Cura do Filho de um Nobre</item>
+	<item> O Povo de Nazaré Fica Zangado com Jesus</item>
+	<item> Jesus Escolhe Seus Apóstolos</item>
+	<item> O Sermão da Montanha</item>
+	<item> Jesus Ensina sobre a Oração</item>
+	<item> Jesus Acalma a Tempestade</item>
+	<item> O Homem que Tinha Maus Espíritos</item>
+	<item> O Homem que Não Andava</item>
+	<item> A Filha de Jairo É Levantada dos Mortos</item>
+	<item> Uma Mulher Toca as Vestes de Jesus</item>
+	<item> Jesus Perdoa a uma Mulher</item>
+	<item> Jesus Faz a Obra do Pai na Terra</item>
+	<item> Jesus Alimenta 5.000 Pessoas</item>
+	<item> Jesus Anda sobre as Águas</item>
+	<item> O Pão da Vida</item>
+	<item> Jesus Cura um Surdo</item>
+	<item> Pedro Dá Testemunho de Cristo</item>
+	<item> A Transfiguração</item>
+	<item> O Rapaz que Tinha um Mau Espírito</item>
+	<item> O Bom Samaritano</item>
+	<item> Jesus Conta Três Parábolas</item>
+	<item>A Ovelha Perdida </item>
+	<item>A Dracma Perdida</item>
+	<item>O Filho Pródigo</item>
+	<item> Os Dez Leprosos</item>
+	<item> O Fariseu e o Publicano</item>
+	<item> Jesus Cura um Cego</item>
+	<item> O Bom Pastor</item>
+	<item> Jesus Abençoa as Criancinhas</item>
+	<item> O Jovem Rico</item>
+	<item> Jesus Traz Lázaro de Volta à Vida</item>
+	<item> O Salvador Vai a Jerusalém</item>
+	<item> As Moedas da Viúva</item>
+	<item> A Segunda Vinda</item>
+	<item> As Dez Virgens</item>
+	<item> Os Talentos</item>
+	<item> O Primeiro Sacramento</item>
+	<item> Outros Ensinamentos na Última Ceia</item>
+	<item> O Sofrimento de Jesus no Jardim do Getsêmani</item>
+	<item> Os Julgamentos de Jesus</item>
+	<item> A Crucificação de Jesus</item>
+	<item> A Ressurreição de Jesus</item>
+	<item> Os Apóstolos Dirigem a Igreja</item>
+	<item> Pedro Cura um Homem</item>
+	<item> A Morte de Estêvão</item>
+	<item> Simão e o Sacerdócio</item>
+	<item> Saulo Ouve a Voz de Jesus e É Convertido</item>
+	<item> Pedro Devolve a Vida a Tabita</item>
+	<item> Paulo e Silas na Prisão</item>
+	<item> Paulo Obedece ao Espírito Santo</item>
+	<item> Paulo Termina Sua Missão</item>
+	<item>Depois do Novo Testamento</item>
+</string-array>
+<string-array name="korTitles">
+	<item>소개</item>
+	<item>제 1 장</item>
+	<item>제 2 장</item>
+	<item>제 3 장</item>
+	<item>제 4 장</item>
+	<item>제 5 장</item>
+	<item>제 6 장</item>
+	<item>제 7 장</item>
+	<item>제 8 장</item>
+	<item>제 9 장</item>
+	<item>제 1 0 예</item>
+	<item>제 1 1 장</item>
+	<item>제 1 2 장</item>
+	<item>제 1 3 장</item>
+	<item>제 1 4 장</item>
+	<item>제 1 5 장</item>
+	<item>제 1 6 장</item>
+	<item>제 1 7 장</item>
+	<item>제 1 8 장</item>
+	<item>제 1 9 장</item>
+	<item>제 2 0 장</item>
+	<item>제 2 1 장</item>
+	<item>제 2 2 장</item>
+	<item>제 2 3 장</item>
+	<item>제 2 4 장</item>
+	<item>제 2 5 장</item>
+	<item>제 2 6 장</item>
+	<item>제 2 7 장</item>
+	<item>제 2 8 장</item>
+	<item>제 2 9 장</item>
+	<item>제 3 0 장</item>
+	<item>제 3 1 장</item>
+	<item>제 3 2 장</item>
+	<item>제 3 3 장</item>
+	<item>제 3 4 장</item>
+	<item>제 3 5 장</item>
+	<item>제 3 6 장</item>
+	<item>첫 번 째 비 유</item>
+	<item>두 번 째 비 유</item>
+	<item>세 번 째 비 유</item>
+	<item>제 3 7 장</item>
+	<item>제 3 8 장</item>
+	<item>제 3 9 장</item>
+	<item>제 4 0 장</item>
+	<item>제 4 1 장</item>
+	<item>제 4 2 장</item>
+	<item>제 4 3 장</item>
+	<item>제 4 4 장</item>
+	<item>제 4 5 장</item>
+	<item>제 4 6 장</item>
+	<item>제 4 7 장</item>
+	<item>제 4 8 장</item>
+	<item>제 4 9 장</item>
+	<item>제 5 0 장</item>
+	<item>제 5 1 장</item>
+	<item>제 5 2 장</item>
+	<item>제 5 4 장</item>
+	<item>제 5 5 장</item>
+	<item>제 5 6 장</item>
+	<item>제 5 7 장</item>
+	<item>제 5 8 장</item>
+	<item>제 5 9 장</item>
+	<item>제 6 0 장</item>
+	<item>제 6 1 장</item>
+	<item>제 6 2 장</item>
+	<item>제 6 3 장</item>
+	<item>신약시대이후의 일들</item>
+</string-array>
+
+<string-array name="korDescriptions">
+	<item> 하나님 아버지의 계획</item>
+	<item> 엘리사벳과 사가랴</item>
+	<item> 마리아와 천사</item>
+	<item> 침례 요한의 탄생</item>
+	<item> 요셉과 천사</item>
+	<item> 예수 그리스도의 탄생</item>
+	<item> 성전에서의 정결예식</item>
+	<item> 동방 박사들</item>
+	<item> 사악한 헤롯 왕</item>
+	<item> 소년 예수</item>
+	<item> 수님이 침례를</item>
+	<item> 예수님이 시험을받으심</item>
+	<item> 가나에서의결혼식 </item>
+	<item> 예수님과하나님 아버지의 집</item>
+	<item> 니고데모 </item>
+	<item> 우물가의 여인</item>
+	<item> 왕의 신하의아들</item>
+	<item> 화가 난 나사렛사람들</item>
+	<item> 예수님이 사도들을선택하심</item>
+	<item> 산상수훈</item>
+	<item> 예수님이기도에 대해가르치심</item>
+	<item> 예수님이바람과 파도를잠잠하게 하심</item>
+	<item> 귀신들린 사람</item>
+	<item> 중풍병자를고치심</item>
+	<item> 죽었던 야이로의딸이 살아남</item>
+	<item> 예수님의 옷자락을만진 여인</item>
+	<item> 예수님이 한 여인을용서하심</item>
+	<item> 지상에서 하나님아버지의 일을 함</item>
+	<item> 예수님이오천 명을 먹이심</item>
+	<item> 예수님이 물 위를걸으심</item>
+	<item> 생명의 떡</item>
+	<item> 예수님이귀가 들리지 않는사람을 고치심</item>
+	<item> 베드로가그리스도에 대해간증함</item>
+	<item> 변형</item>
+	<item> 귀신 들린 소년</item>
+	<item> 선한 사마리아인</item>
+	<item> 예수님이 세 가지비유를 들려주심</item>
+	<item> 잃어버린 양 </item>
+	<item> 잃어버린드라크마</item>
+	<item> 잃어버린 아들</item>
+	<item> 열 명의 나병환자</item>
+	<item> 바리새인과 세리</item>
+	<item> 예수님이소경을 고치심</item>
+	<item> 선한 목자</item>
+	<item> 예수님이어린이들을축복하심</item>
+	<item> 부자 청년</item>
+	<item> 예수님이나사로를 살리심</item>
+	<item> 구주께서예루살렘으로 가심</item>
+	<item> 과부의 두 렙돈</item>
+	<item> 재림</item>
+	<item> 열 처녀의 비유</item>
+	<item> 달란트의 비유</item>
+	<item> 첫 번째 성찬</item>
+	<item> 최후의만찬에서 베푸신다른 가르침들</item>
+	<item> 예수님이겟세마네 동산에서고통을 겪으심</item>
+	<item> 예수님의 재판</item>
+	<item> 예수님이 부활하심</item>
+	<item> 사도들이교회를 인도함</item>
+	<item> 베드로가 병든사람을 고침</item>
+	<item> 사악한 사람들이스데반을 죽임</item>
+	<item> 시몬과 신권</item>
+	<item> 사울이 예수님에대해 알게 됨</item>
+	<item> 베드로가다비다를 살림</item>
+	<item> 감옥에 갇힌바울과 실라</item>
+	<item> 바울이 성신의인도에 순종함</item>
+	<item> 바울이 자신의임무를 마침</item>
+	<item>신약시대이후의 일들</item>
+</string-array>
+
+<string-array name="jpnTitles">
+	<item>はじめに</item>
+	<item>だい1しょう</item>
+	<item>だい2しょう</item>
+	<item>だい3しょう</item>
+	<item>だい4しょう</item>
+	<item>だい5しょう</item>
+	<item>だい6しょう</item>
+	<item>だい7しょう</item>
+	<item>だい8しょう</item>
+	<item>だい9しょう</item>
+	<item>だい10しょう</item>
+	<item>だい11しょう</item>
+	<item>だい12しょう</item>
+	<item>だい13しょう</item>
+	<item>だい14しょう</item>
+	<item>だい15しょう</item>
+	<item>だい16しょう</item>
+	<item>だい17しょう</item>
+	<item>だい18しょう</item>
+	<item>だい19しょう</item>
+	<item>だい20しょう</item>
+	<item>だい21しょう</item>
+	<item>だい22しょう</item>
+	<item>だい23しょう</item>
+	<item>だい24しょう</item>
+	<item>だい25しょう</item>
+	<item>だい26しょう</item>
+	<item>だい27しょう</item>
+	<item>だい28しょう</item>
+	<item>だい29しょう</item>
+	<item>だい30しょう</item>
+	<item>だい31しょう</item>
+	<item>だい32しょう</item>
+	<item>だい33しょう</item>
+	<item>だい34しょう</item>
+	<item>だい35しょう</item>
+	<item>だい36しょう</item>
+	<item>1 つ 目のたとえ</item>
+	<item>2 つ目 のたとえ</item>
+	<item>3 つ目のたとえ</item>
+	<item>だい37しょう</item>
+	<item>だい38しょう</item>
+	<item>だい39しょう</item>
+	<item>だい40しょう</item>
+	<item>だい41しょう</item>
+	<item>だい42しょう</item>
+	<item>だい43しょう</item>
+	<item>だい44しょう</item>
+	<item>だい45しょう</item>
+	<item>だい46しょう</item>
+	<item>だい47しょう</item>
+	<item>だい48しょう</item>
+	<item>だい49しょう</item>
+	<item>だい50しょう</item>
+	<item>だい51しょう</item>
+	<item>だい52しょう</item>
+	<item>だい53しょう</item>
+	<item>だい54しょう</item>
+	<item>だい55しょう</item>
+	<item>だい56しょう</item>
+	<item>だい57しょう</item>
+	<item>だい58しょう</item>
+	<item>だい59しょう</item>
+	<item>だい60しょう</item>
+	<item>だい61しょう</item>
+	<item>だい62しょう</item>
+	<item>だい63しょう</item>
+	<item>新約聖書のあとのじだい</item>
+</string-array>
+
+<string-array name="jpnDescriptions">
+	<item> 天てん のお父とう さまの計けい 画かく</item>
+	<item> エリサベツとザカリヤ</item>
+	<item> マリヤとてんし</item>
+	<item> バプテスマのヨハネのたんじょう</item>
+	<item> ヨセフとてんし</item>
+	<item> イエス・キリストの こうたん</item>
+	<item> みやまいり</item>
+	<item> はかせたち</item>
+	<item> わるいヘロデ王</item>
+	<item> 少年イエス</item>
+	<item> イエス， バプテスマをおうけになる</item>
+	<item> イエス， ゆうわくを おうけになる</item>
+	<item> カナでのけっこんしき</item>
+	<item> イエスと天のお父さまの みや</item>
+	<item> ニコデモ</item>
+	<item> いどのそばに来た女</item>
+	<item> やくにんのむすこ</item>
+	<item> はらを立てた ナザレの人びと</item>
+	<item> イエス，しとを おえらびになる</item>
+	<item> 山上のすいくん</item>
+	<item> イエス，いのりについて お教えになる</item>
+	<item> イエス，風となみに おめいじになる</item>
+	<item> あくれいにつかれた男</item>
+	<item> 歩けなかった男</item>
+	<item> ヤイロのむすめ, しからよみがえる</item>
+	<item> イエスのころもに さわった女</item>
+	<item> イエス，女を おゆるしになる</item>
+	<item> 地上でお父さまの わざを行われる</item>
+	<item> イエス，5,000人に 食べものを おあたえになる</item>
+	<item> イエス，水の上を お歩きになる</item>
+	<item> いのちのパン</item>
+	<item> イエス，耳がふじゆうな人を いやされる</item>
+	<item> ペテロ，キリストについて あかしする</item>
+	<item> えいこうをうけて みすがたをあらわされる ──しゅのへんぼう</item>
+	<item> あくれいにつかれた少年</item>
+	<item> よいサマリヤ人</item>
+	<item> イエス，3つのたとえを お話しになる</item>
+	<item> いなくなったひつし</item>
+	<item> なくなったぎんか</item>
+	<item> いなくなったむすこ</item>
+	<item> おもいひふびょうにかかった10人の人</item>
+	<item> パリサイ人としゅぜい人</item>
+	<item> イエス，もうもくの人をおいやしになる</item>
+	<item> よいひつじかい</item>
+	<item> イエス，子こどもたちをしゅくふくされる</item>
+	<item> 金もちの青年</item>
+	<item> イエス，ラザロを生きかえらせる</item>
+	<item> すくいぬし，エルサレムに上られる</item>
+	<item> やもめのレプタ</item>
+	<item> さいりん</item>
+	<item> 10人のおとめ</item>
+	<item> タラントのたとえ</item>
+	<item> さいしょのせいさんしき</item>
+	<item> さいごのばんさんで話されたそのほかの教え</item>
+	<item> イエス，ゲツセマネのそのでくるしまれる</item>
+	<item> イエスのしれん</item>
+	<item> イエス，十字かにおかかりになる</item>
+	<item> イエス，よみがえられる</item>
+	<item> しとたち，教会をみちびく</item>
+	<item> ペテロ，男をいやす</item>
+	<item> わるい人びと，ステパノをころす</item>
+	<item> シモンとしんけん</item>
+	<item> サウロ，イエスについて知る</item>
+	<item> ペテロ，タビタを生きかえらせる</item>
+	<item> ろうに入れられたパウロとシラス</item>
+	<item> パウロ，せいれいにしたがう</item>
+	<item> パウロ，でんどうをおえる</item>
+	<item>新約聖書のあとのじだい</item>
+</string-array>
+<string-array name="cmnTitles">
+	<item>緒言</item>
+	<item>第1 章</item>
+	<item>第2 章</item>
+	<item>第3 章</item>
+	<item>第4 章</item>
+	<item>第5 章</item>
+	<item>第6 章</item>
+	<item>第7 章</item>
+	<item>第8 章</item>
+	<item>第9 章</item>
+	<item>第10 章</item>
+	<item>第11 章</item>
+	<item>第12 章</item>
+	<item>第13 章</item>
+	<item>第14 章</item>
+	<item>第15 章</item>
+	<item>第16 章</item>
+	<item>第17 章</item>
+	<item>第18 章</item>
+	<item>第19 章</item>
+	<item>第20 章</item>
+	<item>第21 章</item>
+	<item>第22 章</item>
+	<item>第23 章</item>
+	<item>第24 章</item>
+	<item>第25 章</item>
+	<item>第26 章</item>
+	<item>第27 章</item>
+	<item>第28 章</item>
+	<item>第29 章</item>
+	<item>第30 章</item>
+	<item>第31 章</item>
+	<item>第32 章</item>
+	<item>第33 章</item>
+	<item>第34 章</item>
+	<item>第35 章</item>
+	<item>第36 章</item>
+	<item>第一個比喻 迷失的羊</item>
+	<item>第二個比喻 失落的錢幣</item>
+	<item>第三個比喻 迷失的兒子</item>
+	<item>第37 章</item>
+	<item>第38 章</item>
+	<item>第39 章</item>
+	<item>第40 章</item>
+	<item>第41 章</item>
+	<item>第42 章</item>
+	<item>第43 章</item>
+	<item>第44 章</item>
+	<item>第45 章</item>
+	<item>第46 章</item>
+	<item>第47 章</item>
+	<item>第48 章</item>
+	<item>第49 章</item>
+	<item>第50 章</item>
+	<item>第51 章</item>
+	<item>第52 章</item>
+	<item>第53 章</item>
+	<item>第54 章</item>
+	<item>第55 章</item>
+	<item>第56 章</item>
+	<item>第57 章</item>
+	<item>第58 章</item>
+	<item>第59 章</item>
+	<item>第60 章</item>
+	<item>第61 章</item>
+	<item>第62 章</item>
+	<item>第63 章</item>
+	<item>新約以後</item>
+</string-array>
+
+<string-array name="cmnDescriptions">
+	<item> 天父的計畫</item>
+	<item> 伊利莎白和 撒迦利亞</item>
+	<item> 馬利亞和 天使</item>
+	<item> 施洗約翰出生</item>
+	<item> 約瑟和 天使</item>
+	<item> 耶穌基督 誕生</item>
+	<item> 在聖殿裡 獻給主</item>
+	<item> 博士們</item>
+	<item> 邪惡的希律王</item>
+	<item> 童年時期的 耶穌</item>
+	<item> 耶穌受洗</item>
+	<item> 耶穌 受試探</item>
+	<item> 迦拿的婚禮</item>
+	<item> 耶穌和 天父的家</item>
+	<item> 尼哥德慕</item>
+	<item> 井邊的婦人</item>
+	<item> 大臣的兒子</item>
+	<item> 拿撒勒 憤怒的群眾</item>
+	<item> 耶穌 揀選使徒</item>
+	<item> 山上寶訓</item>
+	<item> 耶穌 教人祈禱</item>
+	<item> 耶穌 命令風和浪</item>
+	<item> 被惡鬼 附身的人</item>
+	<item> 不能走路的人</item>
+	<item> 睚魯的女兒 死而復生</item>
+	<item> 有個婦人 摸耶穌的衣裳</item>
+	<item> 耶穌 寬恕婦人</item>
+	<item> 做祂父親 在世上的事工</item>
+	<item> 耶穌 餵飽5,000人</item>
+	<item> 耶穌 在水面上行走</item>
+	<item> 生命的糧</item>
+	<item> 耶穌 治好耳聾的人</item>
+	<item> 彼得為基督 作見證</item>
+	<item> 改變形像</item>
+	<item> 被惡鬼 附身的男孩</item>
+	<item> 好心的 撒馬利亞人</item>
+	<item> 耶穌 講了三個比喻</item>
+	<item>第一個比喻 迷失的羊</item>
+	<item>第二個比喻 失落的錢幣</item>
+	<item>第三個比喻 迷失的兒子</item>
+	<item> 十個 長大痲瘋的人</item>
+	<item> 法利賽人 和稅吏</item>
+	<item> 耶穌 治好瞎眼的人</item>
+	<item> 好牧人</item>
+	<item> 耶穌 祝福小孩</item>
+	<item> 富有的年輕人</item>
+	<item> 耶穌 使拉撒路復生</item>
+	<item> 救主 到耶路撒冷去</item>
+	<item> 寡婦的小錢</item>
+	<item> 第二次來臨</item>
+	<item> 十個童女</item>
+	<item> 才幹（銀子)</item>
+	<item> 第一次聖餐</item>
+	<item> 最後晚餐上的 其他教導</item>
+	<item> 耶穌 在客西馬尼園受苦</item>
+	<item> 耶穌受審</item>
+	<item> 耶穌被釘死在 十字架上</item>
+	<item> 耶穌復活</item>
+	<item> 使徒領導教會</item>
+	<item> 彼得 醫治病人</item>
+	<item> 邪惡的人 殺死司提反</item>
+	<item> 西門與聖職</item>
+	<item> 掃羅學習 有關耶穌的事</item>
+	<item> 彼得 使大比大復生</item>
+	<item> 保羅和西拉 被關在監牢裡</item>
+	<item> 保羅 服從聖靈</item>
+	<item> 保羅 結束傳道</item>
+	<item>新約以後</item>
+</string-array>
+
+<string-array name="yueTitles">
+	<item>緒言</item>
+	<item>第1 章</item>
+	<item>第2 章</item>
+	<item>第3 章</item>
+	<item>第4 章</item>
+	<item>第5 章</item>
+	<item>第6 章</item>
+	<item>第7 章</item>
+	<item>第8 章</item>
+	<item>第9 章</item>
+	<item>第10 章</item>
+	<item>第11 章</item>
+	<item>第12 章</item>
+	<item>第13 章</item>
+	<item>第14 章</item>
+	<item>第15 章</item>
+	<item>第16 章</item>
+	<item>第17 章</item>
+	<item>第18 章</item>
+	<item>第19 章</item>
+	<item>第20 章</item>
+	<item>第21 章</item>
+	<item>第22 章</item>
+	<item>第23 章</item>
+	<item>第24 章</item>
+	<item>第25 章</item>
+	<item>第26 章</item>
+	<item>第27 章</item>
+	<item>第28 章</item>
+	<item>第29 章</item>
+	<item>第30 章</item>
+	<item>第31 章</item>
+	<item>第32 章</item>
+	<item>第33 章</item>
+	<item>第34 章</item>
+	<item>第35 章</item>
+	<item>第36 章</item>
+	<item>第一個比喻 迷失的羊</item>
+	<item>第二個比喻 失落的錢幣</item>
+	<item>第三個比喻 迷失的兒子</item>
+	<item>第37 章</item>
+	<item>第38 章</item>
+	<item>第39 章</item>
+	<item>第40 章</item>
+	<item>第41 章</item>
+	<item>第42 章</item>
+	<item>第43 章</item>
+	<item>第44 章</item>
+	<item>第45 章</item>
+	<item>第46 章</item>
+	<item>第47 章</item>
+	<item>第48 章</item>
+	<item>第49 章</item>
+	<item>第50 章</item>
+	<item>第51 章</item>
+	<item>第52 章</item>
+	<item>第53 章</item>
+	<item>第54 章</item>
+	<item>第55 章</item>
+	<item>第56 章</item>
+	<item>第57 章</item>
+	<item>第58 章</item>
+	<item>第59 章</item>
+	<item>第60 章</item>
+	<item>第61 章</item>
+	<item>第62 章</item>
+	<item>第63 章</item>
+	<item>新約以後</item>
+</string-array>
+
+<string-array name="yueDescriptions">
+	<item> 天父的計畫</item>
+	<item> 伊利莎白和 撒迦利亞</item>
+	<item> 馬利亞和 天使</item>
+	<item> 施洗約翰出生</item>
+	<item> 約瑟和 天使</item>
+	<item> 耶穌基督 誕生</item>
+	<item> 在聖殿裡 獻給主</item>
+	<item> 博士們</item>
+	<item> 邪惡的希律王</item>
+	<item> 童年時期的 耶穌</item>
+	<item> 耶穌受洗</item>
+	<item> 耶穌 受試探</item>
+	<item> 迦拿的婚禮</item>
+	<item> 耶穌和 天父的家</item>
+	<item> 尼哥德慕</item>
+	<item> 井邊的婦人</item>
+	<item> 大臣的兒子</item>
+	<item> 拿撒勒 憤怒的群眾</item>
+	<item> 耶穌 揀選使徒</item>
+	<item> 山上寶訓</item>
+	<item> 耶穌 教人祈禱</item>
+	<item> 耶穌 命令風和浪</item>
+	<item> 被惡鬼 附身的人</item>
+	<item> 不能走路的人</item>
+	<item> 睚魯的女兒 死而復生</item>
+	<item> 有個婦人 摸耶穌的衣裳</item>
+	<item> 耶穌 寬恕婦人</item>
+	<item> 做祂父親 在世上的事工</item>
+	<item> 耶穌 餵飽5,000人</item>
+	<item> 耶穌 在水面上行走</item>
+	<item> 生命的糧</item>
+	<item> 耶穌 治好耳聾的人</item>
+	<item> 彼得為基督 作見證</item>
+	<item> 改變形像</item>
+	<item> 被惡鬼 附身的男孩</item>
+	<item> 好心的 撒馬利亞人</item>
+	<item> 耶穌 講了三個比喻</item>
+	<item>第一個比喻 迷失的羊</item>
+	<item>第二個比喻 失落的錢幣</item>
+	<item>第三個比喻 迷失的兒子</item>
+	<item> 十個 長大痲瘋的人</item>
+	<item> 法利賽人 和稅吏</item>
+	<item> 耶穌 治好瞎眼的人</item>
+	<item> 好牧人</item>
+	<item> 耶穌 祝福小孩</item>
+	<item> 富有的年輕人</item>
+	<item> 耶穌 使拉撒路復生</item>
+	<item> 救主 到耶路撒冷去</item>
+	<item> 寡婦的小錢</item>
+	<item> 第二次來臨</item>
+	<item> 十個童女</item>
+	<item> 才幹（銀子)</item>
+	<item> 第一次聖餐</item>
+	<item> 最後晚餐上的 其他教導</item>
+	<item> 耶穌 在客西馬尼園受苦</item>
+	<item> 耶穌受審</item>
+	<item> 耶穌被釘死在 十字架上</item>
+	<item> 耶穌復活</item>
+	<item> 使徒領導教會</item>
+	<item> 彼得 醫治病人</item>
+	<item> 邪惡的人 殺死司提反</item>
+	<item> 西門與聖職</item>
+	<item> 掃羅學習 有關耶穌的事</item>
+	<item> 彼得 使大比大復生</item>
+	<item> 保羅和西拉 被關在監牢裡</item>
+	<item> 保羅 服從聖靈</item>
+	<item> 保羅 結束傳道</item>
+	<item>新約以後</item>
+</string-array>
+<string-array name="itaTitles">
+	<item>Introduzione</item>
+	<item>Capitolo 1</item>
+	<item>Capitolo 2</item>
+	<item>Capitolo 3</item>
+	<item>Capitolo 4</item>
+	<item>Capitolo 5</item>
+	<item>Capitolo 6</item>
+	<item>Capitolo 7</item>
+	<item>Capitolo 8</item>
+	<item>Capitolo 9</item>
+	<item>Capitolo 10</item>
+	<item>Capitolo 11</item>
+	<item>Capitolo 12</item>
+	<item>Capitolo 13</item>
+	<item>Capitolo 14</item>
+	<item>Capitolo 15</item>
+	<item>Capitolo 16</item>
+	<item>Capitolo 17</item>
+	<item>Capitolo 18</item>
+	<item>Capitolo 19</item>
+	<item>Capitolo 20</item>
+	<item>Capitolo 21</item>
+	<item>Capitolo 22</item>
+	<item>Capitolo 23</item>
+	<item>Capitolo 24</item>
+	<item>Capitolo 25</item>
+	<item>Capitolo 26</item>
+	<item>Capitolo 27</item>
+	<item>Capitolo 28</item>
+	<item>Capitolo 29</item>
+	<item>Capitolo 30</item>
+	<item>Capitolo 31</item>
+	<item>Capitolo 32</item>
+	<item>Capitolo 33</item>
+	<item>Capitolo 34</item>
+	<item>Capitolo 35</item>
+	<item>Capitolo 36</item>
+	<item>La pecora smarrita</item>
+	<item>La dramma perduta</item>
+	<item>Il figliol prodigo</item>
+	<item>Capitolo 37</item>
+	<item>Capitolo 38</item>
+	<item>Capitolo 39</item>
+	<item>Capitolo 40</item>
+	<item>Capitolo 41</item>
+	<item>Capitolo 42</item>
+	<item>Capitolo 43</item>
+	<item>Capitolo 44</item>
+	<item>Capitolo 45</item>
+	<item>Capitolo 46</item>
+	<item>Capitolo 47</item>
+	<item>Capitolo 48</item>
+	<item>Capitolo 49</item>
+	<item>Capitolo 50</item>
+	<item>Capitolo 51</item>
+	<item>Capitolo 52</item>
+	<item>Capitolo 53</item>
+	<item>Capitolo 54</item>
+	<item>Capitolo 55</item>
+	<item>Capitolo 56</item>
+	<item>Capitolo 57</item>
+	<item>Capitolo 58</item>
+	<item>Capitolo 59</item>
+	<item>Capitolo 60</item>
+	<item>Capitolo 61</item>
+	<item>Capitolo 62</item>
+	<item>Capitolo 63</item>
+	<item>Dopo il Nuovo Testamento</item>
+</string-array>
+
+<string-array name="itaDescriptions">
+	<item> Il piano del nostro Padre celeste</item>
+	<item> Elisabetta e Zaccaria</item>
+	<item> Maria e l\'angelo</item>
+	<item> Nascita di Giovanni Battista</item>
+	<item> Giuseppe e l\'angelo</item>
+	<item> Nascita di Gesù Cristo</item>
+	<item> La presentazione al tempio</item>
+	<item> I magi d\'Oriente</item>
+	<item> Il malvagio re Erode</item>
+	<item> Il bambino Gesù</item>
+	<item> Il battesimo di Gesù</item>
+	<item> Le tentazioni di Gesù</item>
+	<item> Le nozze di Cana</item>
+	<item> Gesù e la casa del Suo Padre celeste</item>
+	<item> Nicodemo</item>
+	<item> La donna al pozzo</item>
+	<item> Il figlio dell\'ufficiale reale</item>
+	<item> L\'ira degli abitanti di Nazaret</item>
+	<item> Gesù sceglie i Suoi apostoli</item>
+	<item> Il Sermone sul Monte</item>
+	<item> Gesù insegna a pregare</item>
+	<item> Gesù placa i venti e la tempesta</item>
+	<item> L\'uomo posseduto da spiriti malvagi</item>
+	<item> L\'uomo che non poteva camminare</item>
+	<item> La figlia di Iairo è risorta dalla morte</item>
+	<item> Una donna tocca le vesti di Gesù</item>
+	<item> Gesù perdona una donna</item>
+	<item> Compiere l\'opera del Padre sulla terra</item>
+	<item> Gesù sfama 5.000 persone</item>
+	<item> Gesù cammina sulle acque</item>
+	<item> Il Pane della vita</item>
+	<item> Gesù guarisce un sordo</item>
+	<item> Pietro testimonia di Cristo</item>
+	<item> la Trasfigurazione</item>
+	<item> Il ragazzo lunatico</item>
+	<item> Il buon Samaritano</item>
+	<item> Gesù racconta tre parabole</item>
+	<item>La pecora smarrita</item>
+	<item>La dramma perduta</item>
+	<item>Il figliol prodigo</item>
+	<item> I dieci lebbrosi</item>
+	<item> Il Fariseo e il pubblicano</item>
+	<item> Gesù guarisce un cieco</item>
+	<item> Il Buon Pastore</item>
+	<item> Gesù benedice i bambini</item>
+	<item> Il giovane ricco</item>
+	<item> Gesù risuscita Lazzaro</item>
+	<item> Il Salvatore va a Gerusalemme</item>
+	<item> L\'offerta della vedova</item>
+	<item> La Seconda Venuta</item>
+	<item> Le dieci vergini</item>
+	<item> I talenti</item>
+	<item> Il primo sacramento</item>
+	<item> Altri insegnamenti durante l\'Ultima Cena</item>
+	<item> Gesù soffre nel Giardino di Getsemani</item>
+	<item> I processi a Gesù</item>
+	<item> La crocefissione di Gesù</item>
+	<item> Gesù è risorto</item>
+	<item> Gli apostoli guidano la Chiesa</item>
+	<item> Pietro guarisce un uomo</item>
+	<item> Uomini malvagi uccidono Stefano</item>
+	<item> Simone e il sacerdozio</item>
+	<item> Saulo conosce Gesù</item>
+	<item> Pietro risuscita Tabita</item>
+	<item> Paolo e Sila in prigione</item>
+	<item> Paolo obbedisce allo Spirito Santo</item>
+	<item> Paolo porta a termine la sua missione</item>
+	<item>Dopo il Nuovo Testamento</item>
+</string-array>
+<string-array name="rusTitles">
+	<item>Введение. План нашего Небесного Отца</item>
+	<item>Глава 1</item>
+	<item>Глава 2</item>
+	<item>Глава 3</item>
+	<item>Глава 4</item>
+	<item>Глава 5</item>
+	<item>Глава 6</item>
+	<item>Глава 7</item>
+	<item>Глава 8</item>
+	<item>Глава 9</item>
+	<item>Глава 10</item>
+	<item>Глава 11</item>
+	<item>Глава 12</item>
+	<item>Глава 13</item>
+	<item>Глава 14</item>
+	<item>Глава 15</item>
+	<item>Глава 16</item>
+	<item>Глава 17</item>
+	<item>Глава 18</item>
+	<item>Глава 19</item>
+	<item>Глава 20</item>
+	<item>Глава 21</item>
+	<item>Глава 22</item>
+	<item>Глава 23</item>
+	<item>Глава 24</item>
+	<item>Глава 25</item>
+	<item>Глава 26</item>
+	<item>Глава 27</item>
+	<item>Глава 28</item>
+	<item>Глава 29</item>
+	<item>Глава 30</item>
+	<item>Глава 31</item>
+	<item>Глава 32</item>
+	<item>Глава 33</item>
+	<item>Глава 34</item>
+	<item>Глава 35</item>
+	<item>Глава 36</item>
+	<item>Пропавшая овца</item>
+	<item>Потерянная монета</item>
+	<item>Блудный сын</item>
+	<item>Глава 37</item>
+	<item>Глава 38</item>
+	<item>Глава 39</item>
+	<item>Глава 40</item>
+	<item>Глава 41</item>
+	<item>Глава 42</item>
+	<item>Глава 43</item>
+	<item>Глава 44</item>
+	<item>Глава 45</item>
+	<item>Глава 46</item>
+	<item>Глава 47</item>
+	<item>Глава 48</item>
+	<item>Глава 49</item>
+	<item>Глава 50</item>
+	<item>Глава 51</item>
+	<item>Глава 52</item>
+	<item>Глава 53</item>
+	<item>Глава 54</item>
+	<item>Глава 55</item>
+	<item>Глава 56</item>
+	<item>Глава 57</item>
+	<item>Глава 58</item>
+	<item>Глава 59</item>
+	<item>Глава 60</item>
+	<item>Глава 61</item>
+	<item>Глава 62</item>
+	<item>Глава 63</item>
+	<item>После Нового Завета</item>
+</string-array>
+
+<string-array name="rusDescriptions">
+	<item>Введение. План нашего Небесного Отца</item>
+	<item> Елисавета и Захария</item>
+	<item> Мария и Ангел</item>
+	<item> Рождение Иоанна Крестителя</item>
+	<item> Иосиф и Ангел</item>
+	<item> Рождение Иисуса Христа</item>
+	<item> Что случилось в храме</item>
+	<item> Волхвы</item>
+	<item> Злой царь Ирод</item>
+	<item> Детство Иисуса</item>
+	<item> Крещение Иисуса</item>
+	<item> Искушение Иисуса</item>
+	<item> Свадьба в Кане</item>
+	<item> Иисус и дом Его Небесного Отца</item>
+	<item> Никодим</item>
+	<item> Женщина у колодца</item>
+	<item> Сын начальника</item>
+	<item> Злые люди в Назарете</item>
+	<item> Иисус выбирает Себе Апостолов</item>
+	<item> Нагорная проповедь</item>
+	<item> Иисус Христос учит молитьс</item>
+	<item> Иисус повелевает ветрам и волнам</item>
+	<item> Человек, одержимый злыми духами</item>
+	<item> Человек, который не мог ходить</item>
+	<item> Воскрешение из мертвых дочери Иаира</item>
+	<item> Женщина прикасается к одежде Иисуса</item>
+	<item> Иисус прощает женщину</item>
+	<item> Делая работу Своего Отца на Земле</item>
+	<item> Иисус насыщает пять тысяч человек</item>
+	<item> Иисус идет по воде</item>
+	<item> Хлеб жизни</item>
+	<item> Иисус исцеляет глухого</item>
+	<item> Петр свидетельствует о Христе</item>
+	<item> Преображение</item>
+	<item> Мальчик, одержимый злым духом</item>
+	<item> Добрый Самарянин</item>
+	<item> Иисус рассказывает притчи</item>
+	<item>Пропавшая овца</item>
+	<item>Потерянная монета</item>
+	<item>Блудный сын</item>
+	<item> Десять прокаженных</item>
+	<item> Фарисей и мытарь</item>
+	<item> Иисус исцеляет слепого</item>
+	<item> Добрый Пастырь</item>
+	<item> Иисус благословляет детей</item>
+	<item> Богатый юноша</item>
+	<item> Иисус возвращает к жизни Лазаря</item>
+	<item> Спаситель идет в Иерусалим</item>
+	<item> Лепты вдовы</item>
+	<item> Второе пришествие</item>
+	<item> Десять дев</item>
+	<item> Таланты</item>
+	<item> Первое причастие</item>
+	<item> Другие учения, прозвучавшие на Тайной вечере</item>
+	<item> Страдания Иисуса в Гефсиманском саду</item>
+	<item> Как судили Иисус2</item>
+	<item> Распятие Иисуса</item>
+	<item> Иисус воскрес</item>
+	<item> Апостолы руководят Церковью</item>
+	<item> Петр исцеляет человека</item>
+	<item> Злые люди убивают Стефана</item>
+	<item> Симон и священство</item>
+	<item> Павел узнает об Иисусе</item>
+	<item> Петр возвращает к жизни Тавифу</item>
+	<item> Павел и Сила в темнице</item>
+	<item> Павел повинуется Святому Духу</item>
+	<item> Павел завершает свою миссию</item>
+	<item>После Нового Завета</item>
+</string-array>
+
+</resources>

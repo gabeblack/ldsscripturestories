@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="qualityArray">
+   <item>360p</item>
+   <item>720p</item>
+   <item>1080p</item>
+</string-array>
+ 
+<string-array name="mediaTypeArray">
+   <item>mp4</item>
+</string-array>
+
+<string-array name="languageArray">
+   <item>English</item>
+</string-array>
+
+<string-array name="languageValues">
+   <item>eng</item>
+</string-array>
+
+<string-array name="engTitles">
+	<item>Introduction</item>
+	<item>Chapter 1</item>
+	<item>Chapter 2</item>
+	<item>Chapter 3</item>
+	<item>Chapter 4</item>
+	<item>Chapter 5</item>
+	<item>Chapter 6</item>
+	<item>Chapter 7</item>
+	<item>Chapter 8</item>
+	<item>Chapter 9</item>
+	<item>Chapter 10</item>
+	<item>Chapter 11</item>
+	<item>Chapter 12</item>
+	<item>Chapter 13</item>
+	<item>Chapter 14</item>
+	<item>Chapter 15</item>
+	<item>Chapter 16</item>
+	<item>Chapter 17</item>
+	<item>Chapter 18</item>
+	<item>Chapter 19</item>
+	<item>Chapter 20</item>
+	<item>Chapter 21</item>
+	<item>Chapter 22</item>
+	<item>Chapter 23</item>
+	<item>Chapter 24</item>
+	<item>Chapter 25</item>
+	<item>Chapter 26</item>
+	<item>Chapter 27</item>
+	<item>Chapter 28</item>
+	<item>Chapter 29</item>
+	<item>Chapter 30</item>
+	<item>Chapter 31</item>
+	<item>Chapter 32</item>
+	<item>Chapter 33</item>
+	<item>Chapter 34</item>
+	<item>Chapter 35</item>
+	<item>Chapter 36</item>
+	<item>Chapter 37</item>
+	<item>Chapter 38</item>
+	<item>Chapter 39</item>
+	<item>Chapter 40</item>
+	<item>Chapter 41</item>
+	<item>Chapter 42</item>
+	<item>Chapter 43</item>
+	<item>Chapter 44</item>
+	<item>Chapter 45</item>
+	<item>Chapter 46</item>
+	<item>Chapter 47</item>
+	<item>Chapter 48</item>
+	<item>Chapter 49</item>
+	<item>Chapter 50</item>
+	<item>Chapter 51</item>
+	<item>Chapter 52</item>
+	<item>Chapter 53</item>
+	<item>Chapter 54</item>
+	<item>Chapter 55</item>
+	<item>Chapter 56</item>
+	<item>Chapter 57</item>
+	<item>Chapter 58</item>
+	<item>Chapter 59</item>
+	<item>Chapter 60</item>
+	<item>Chapter 61</item>
+	<item>Chapter 62</item>
+	<item>Chapter 63</item>
+	<item>Chapter 64</item>
+	<item>Chapter 65</item>
+</string-array>
+
+<string-array name="engDescriptions">
+	<item> Before the Doctrine and Covenants</item>
+	<item> Joseph Smith and His  ...</item>
+	<item> Joseph Smith\'s First  ...</item>
+	<item> The Angel Moroni and  ...</item>
+	<item> Martin Harris and the  ...</item>
+	<item> Joseph Smith and Oliver  ...</item>
+	<item> Joseph and Oliver Are  ...</item>
+	<item> Witnesses See the Gold  ...</item>
+	<item> Getting Ready for the  ...</item>
+	<item> Organization of the Church  ...</item>
+	<item> The First Miracle in  ...</item>
+	<item> More People Join the  ...</item>
+	<item> Samuel Smith\'s Mission  ...</item>
+	<item> Joseph and Emma (July  ...</item>
+	<item> The Prophet and Revelations  ...</item>
+	<item> A Mission to the  ...</item>
+	<item> Joseph Smith and Sidney  ...</item>
+	<item> The First Bishops of  ...</item>
+	<item> The Law of the  ...</item>
+	<item> The Second Coming of  ...</item>
+	<item> Gifts of the Spirit  ...</item>
+	<item> A Revelation to Settle  ...</item>
+	<item> Saints Begin to Settle  ...</item>
+	<item> The Doctrine and Covenants  ...</item>
+	<item> Parents Should Teach Their  ...</item>
+	<item> Joseph Smith and Sidney  ...</item>
+	<item> The Three Kingdoms of  ...</item>
+	<item> The Prophet Continues His  ...</item>
+	<item> The Prophet Joseph Goes  ...</item>
+	<item> A Revelation about the  ...</item>
+	<item> A Revelation about War  ...</item>
+	<item> The Word of Wisdom  ...</item>
+	<item> The Church of Jesus  ...</item>
+	<item> A Revelation about Jesus  ...</item>
+	<item> God Warns the People  ...</item>
+	<item> The Saints Leave Jackson  ...</item>
+	<item> Zion\'s Camp (February– ...</item>
+	<item> Priesthood Leaders (February–March  ...</item>
+	<item> The Pearl of Great  ...</item>
+	<item> The Kirtland Temple Is  ...</item>
+	<item> Visions in the Kirtland  ...</item>
+	<item> Trouble in Kirtland (1837– ...</item>
+	<item> Far West, Missouri (January– ...</item>
+	<item> Jesus Christ Names His  ...</item>
+	<item> Tithing (July 1838)</item>
+	<item> More Mobs in Missouri  ...</item>
+	<item> Joseph Smith in Liberty  ...</item>
+	<item> The Saints Leave Missouri  ...</item>
+	<item> Joseph Smith Asks the  ...</item>
+	<item> Missionaries in Other Lands  ...</item>
+	<item> The Saints in Nauvoo  ...</item>
+	<item> The First Endowments (May  ...</item>
+	<item> The Relief Society (March  ...</item>
+	<item> Trouble in Nauvoo (May– ...</item>
+	<item> God and Angels (February– ...</item>
+	<item> A Revelation about Marriage  ...</item>
+	<item> More Trouble for the  ...</item>
+	<item> The Prophet Is Killed  ...</item>
+	<item> A New Leader for  ...</item>
+	<item> Endowments Are Performed in  ...</item>
+	<item> The Saints Leave Nauvoo  ...</item>
+	<item> The Mormon Battalion (June  ...</item>
+	<item> The Saints Establish Winter  ...</item>
+	<item> The Pioneers Go to  ...</item>
+	<item> The Saints in the  ...</item>
+	<item> The Church of Jesus  ...</item>
+</string-array>
+
+<string-array name="chapterFiles">
+	<item>2010-06-01-introduction-before-the-doctrine-and-covenants</item>
+	<item>2010-06-02-chapter-1-joseph-smith-and-his-family-1805-1820</item>
+	<item>2010-06-03-chapter-2-joseph-smiths-first-vision-1820</item>
+	<item>2010-06-04-chapter-3-the-angel-moroni-and-the-gold-plates-1823-1827</item>
+	<item>2010-06-05-chapter-4-martin-harris-and-the-lost-pages-1827-1828</item>
+	<item>2010-06-06-chapter-5-joseph-smith-and-oliver-cowdery-february-april-1829</item>
+	<item>2010-06-07-chapter-6-joseph-and-oliver-are-given-the-priesthood-may-1829</item>
+	<item>2010-06-08-chapter-7-witnesses-see-the-gold-plates-1829-1830</item>
+	<item>2010-06-09-chapter-8-getting-ready-for-the-church-of-jesus-christ-april-1830</item>
+	<item>2010-06-10-chapter-9-organization-of-the-church-of-jesus-christ-6-april-1830</item>
+	<item>2010-06-11-chapter-10-the-first-miracle-in-the-church-april-1830</item>
+	<item>2010-06-12-chapter-11-more-people-join-the-church-april-june-1830</item>
+	<item>2010-06-13-chapter-12-samuel-smiths-mission-june-1830</item>
+	<item>2010-06-14-chapter-13-joseph-and-emma-july-1830</item>
+	<item>2010-06-15-chapter-14-the-prophet-and-revelations-for-the-church-september-1830</item>
+	<item>2010-06-16-chapter-15-a-mission-to-the-lamanites-september-1830</item>
+	<item>2010-06-17-chapter-16-joseph-smith-and-sidney-rigdon-learn-about-zion-1830</item>
+	<item>2010-06-18-chapter-17-the-first-bishops-of-the-church-february-and-december-1831</item>
+	<item>2010-06-19-chapter-18-the-law-of-the-church-9-february-1831</item>
+	<item>2010-06-20-chapter-19-the-second-coming-of-jesus-christ</item>
+	<item>2010-06-21-chapter-20-gifts-of-the-spirit-8-march-1831</item>
+	<item>2010-06-22-chapter-21-a-revelation-to-settle-in-missouri-may-june-1831</item>
+	<item>2010-06-23-chapter-22-saints-begin-to-settle-in-missouri-july-august-1831</item>
+	<item>2010-06-24-chapter-23-the-doctrine-and-covenants-august-november-1831</item>
+	<item>2010-06-25-chapter-24-parents-should-teach-their-children-november-1831</item>
+	<item>2010-06-26-chapter-25-joseph-smith-and-sidney-rigdon-go-on-a-mission-december-1831-january-1832</item>
+	<item>2010-06-27-chapter-26-the-three-kingdoms-of-heaven-16-february-1832</item>
+	<item>2010-06-28-chapter-27-the-prophet-continues-his-work-despite-persecution-march-1832</item>
+	<item>2010-06-29-chapter-28-the-prophet-joseph-goes-to-missouri-again-march-may-1832</item>
+	<item>2010-06-30-chapter-29-a-revelation-about-the-priesthood-september-1832</item>
+	<item>2010-06-31-chapter-30-a-revelation-about-war-25-december-1832</item>
+	<item>2010-06-32-chapter-31-the-word-of-wisdom-february-1833</item>
+	<item>2010-06-33-chapter-32-the-church-of-jesus-christ-in-kirtland-1833-1834</item>
+	<item>2010-06-34-chapter-33-a-revelation-about-jesus-christ-may-1833</item>
+	<item>2010-06-35-chapter-34-god-warns-the-people-of-zion-july-august-1833</item>
+	<item>2010-06-36-chapter-35-the-saints-leave-jackson-county-missouri-september-december-1833</item>
+	<item>2010-06-37-chapter-36-zions-camp-february-june-1834</item>
+	<item>2010-06-38-chapter-37-priesthood-leaders-february-march-1835</item>
+	<item>2010-06-39-chapter-38-the-pearl-of-great-price</item>
+	<item>2010-06-40-chapter-39-the-kirtland-temple-is-dedicated-january-march-1836</item>
+	<item>2010-06-41-chapter-40-visions-in-the-kirtland-temple-april-1836</item>
+	<item>2010-06-42-chapter-41-trouble-in-kirtland-1837-1838</item>
+	<item>2010-06-43-chapter-42-far-west-missouri-january-july-1838</item>
+	<item>2010-06-44-chapter-43-jesus-christ-names-his-church-april-1838</item>
+	<item>2010-06-45-chapter-44-tithing-july-1838</item>
+	<item>2010-06-46-chapter-45-more-mobs-in-missouri-1838-1839</item>
+	<item>2010-06-47-chapter-46-joseph-smith-in-liberty-jail-november-1838-april-1839</item>
+	<item>2010-06-48-chapter-47-the-saints-leave-missouri-winter-1839</item>
+	<item>2010-06-49-chapter-48-joseph-smith-asks-the-president-for-help-march-november-1839</item>
+	<item>2010-06-50-chapter-49-missionaries-in-other-lands-june-1837-october-1841</item>
+	<item>2010-06-51-chapter-50-the-saints-in-nauvoo-january-july-1841</item>
+	<item>2010-06-52-chapter-51-the-first-endowments-may-1842</item>
+	<item>2010-06-53-chapter-52-the-relief-society-march-1842</item>
+	<item>2010-06-54-chapter-53-trouble-in-nauvoo-may-august-1842</item>
+	<item>2010-06-55-chapter-54-god-and-angels-february-april-1843</item>
+	<item>2010-06-56-chapter-55-a-revelation-about-marriage-july-1843</item>
+	<item>2010-06-57-chapter-56-more-trouble-for-the-saints-1843-1844</item>
+	<item>2010-06-58-chapter-57-the-prophet-is-killed-june-1844</item>
+	<item>2010-06-59-chapter-58-a-new-leader-for-the-church-july-august-1844</item>
+	<item>2010-06-60-chapter-59-endowments-are-performed-in-the-nauvoo-temple-november-1845-february-1846</item>
+	<item>2010-06-61-chapter-60-the-saints-leave-nauvoo-september-1845-september-1846</item>
+	<item>2010-06-62-chapter-61-the-mormon-battalion-june-1846-july-1847</item>
+	<item>2010-06-63-chapter-62-the-saints-establish-winter-quarters-1846-1847</item>
+	<item>2010-06-64-chapter-63-the-pioneers-go-to-the-salt-lake-valley-april-july-1847</item>
+	<item>2010-06-65-chapter-64-the-saints-in-the-rocky-mountains-beginning-in-july-1847</item>
+	<item>2010-06-66-chapter-65-the-church-of-jesus-christ-today</item>
+</string-array>
+
+</resources>

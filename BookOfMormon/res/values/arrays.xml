@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="qualityArray">
+   <item>360p</item>
+   <item>720p</item>
+   <item>1080p</item>
+</string-array>
+ 
+<string-array name="mediaTypeArray">
+   <item>mp4</item>
+   <item>wmv</item>
+</string-array>
+
+<string-array name="languageArray">
+   <item>Deutsch</item>
+   <item>English</item>
+   <item>Español</item>
+   <item>Français</item>
+   <item>Italiano</item>
+   <item>Português</item>
+   <item>Русский</item>
+   <item>國語</item>
+   <item>廣東話</item>
+   <item>日本語</item>
+   <item>한국어</item>
+</string-array>
+
+<string-array name="languageValues">
+   <item>deu</item>
+   <item>eng</item>
+   <item>spa</item>
+   <item>fra</item>
+   <item>ita</item>
+   <item>por</item>
+   <item>rus</item>
+   <item>cmn</item>
+   <item>yue</item>
+   <item>jpn</item>
+   <item>kor</item>
+</string-array>
+
+<string-array name="chapterFiles">
+  <item>2010-12-01-chapter-1-how-we-got-the-book-of-mormon</item>
+  <item>2010-12-02-chapter-2-lehi-warns-the-people</item>
+  <item>2010-12-03-chapter-3-lehi-leaves-jerusalem</item>
+  <item>2010-12-04-chapter-4-the-brass-plates</item>
+  <item>2010-12-05-chapter-5-traveling-in-the-wilderness</item>
+  <item>2010-12-06-chapter-6-lehis-dream</item>
+  <item>2010-12-07-chapter-7-building-the-ship</item>
+  <item>2010-12-08-chapter-8-crossing-the-sea</item>
+  <item>2010-12-09-chapter-9-a-new-home-in-the-promised-land</item>
+  <item>2010-12-10-chapter-10-jacob-and-sherem</item>
+  <item>2010-12-11-chapter-11-enos</item>
+  <item>2010-12-12-chapter-12-king-benjamin</item>
+  <item>2010-12-13-chapter-13-zeniff</item>
+  <item>2010-12-14-chapter-14-abinadi-and-king-noah</item>
+  <item>2010-12-15-chapter-15-alma-teaches-and-baptizes</item>
+  <item>2010-12-16-chapter-16-king-limhi-and-his-people-escape</item>
+  <item>2010-12-17-chapter-17-alma-and-his-people-escape</item>
+  <item>2010-12-18-chapter-18-alma-the-younger-repents</item>
+  <item>2010-12-19-chapter-19-the-sons-of-mosiah-become-missionaries</item>
+  <item>2010-12-20-chapter-20-alma-and-nehor</item>
+  <item>2010-12-21-chapter-21-the-amlicites</item>
+  <item>2010-12-22-chapter-22-almas-mission-to-ammonihah</item>
+  <item>2010-12-23-chapter-23-ammon-a-great-servant</item>
+  <item>2010-12-24-chapter-24-ammon-meets-king-lamonis-father</item>
+  <item>2010-12-25-chapter-25-aaron-teaches-king-lamonis-father</item>
+  <item>2010-12-26-chapter-26-the-people-of-ammon</item>
+  <item>2010-12-27-chapter-27-korihor</item>
+  <item>2010-12-28-chapter-28-the-zoramites-and-the-rameumptom</item>
+  <item>2010-12-29-chapter-29-alma-teaches-about-faith-and-the-word-of-god</item>
+  <item>2010-12-30-chapter-30-alma-counsels-his-sons</item>
+  <item>2010-12-31-chapter-31-captain-moroni-defeats-zerahemnah</item>
+  <item>2010-12-32-chapter-32-captain-moroni-and-the-title-of-liberty</item>
+  <item>2010-12-33-chapter-33-king-men-versus-freemen</item>
+  <item>2010-12-34-chapter-34-helaman-and-the-2000-young-warriors</item>
+  <item>2010-12-35-chapter-35-captain-moroni-and-pahoran</item>
+  <item>2010-12-36-chapter-36-hagoth</item>
+  <item>2010-12-37-chapter-37-nephi-and-lehi-in-prison</item>
+  <item>2010-12-38-chapter-38-the-murder-of-the-chief-judge</item>
+  <item>2010-12-39-chapter-39-nephi-receives-great-power</item>
+  <item>2010-12-40-chapter-40-samuel-the-lamanite-tells-about-jesus-christ</item>
+  <item>2010-12-41-chapter-41-the-signs-of-christs-birth</item>
+  <item>2010-12-42-chapter-42-the-signs-of-christs-crucifixion</item>
+  <item>2010-12-43-chapter-43-jesus-christ-appears-to-the-nephites</item>
+  <item>2010-12-44-chapter-44-jesus-christ-blesses-the-children</item>
+  <item>2010-12-45-chapter-45-jesus-christ-teaches-about-the-sacrament-and-prayer</item>
+  <item>2010-12-46-chapter-46-jesus-christ-teaches-and-prays-with-the-nephites</item>
+  <item>2010-12-47-chapter-47-jesus-christ-blesses-his-disciples</item>
+  <item>2010-12-48-chapter-48-peace-in-america</item>
+  <item>2010-12-49-chapter-49-mormon-and-his-teachings</item>
+  <item>2010-12-50-chapter-50-the-jaredites-leave-babel</item>
+  <item>2010-12-51-chapter-51-the-jaredites-travel-to-the-promised-land</item>
+  <item>2010-12-52-chapter-52-the-destruction-of-the-jaredites</item>
+  <item>2010-12-53-chapter-53-moroni-and-his-teachings</item>
+  <item>2010-12-54-chapter-54-the-promise-of-the-book-of-mormon</item>
+</string-array>
+
+<string-array name="engTitles">
+  <item>Chapter 1</item>
+  <item>Chapter 2</item>
+  <item>Chapter 3</item>
+  <item>Chapter 4</item>
+  <item>Chapter 5</item>
+  <item>Chapter 6</item>
+  <item>Chapter 7</item>
+  <item>Chapter 8</item>
+  <item>Chapter 9</item>
+  <item>Chapter 10</item>
+  <item>Chapter 11</item>
+  <item>Chapter 12</item>
+  <item>Chapter 13</item>
+  <item>Chapter 14</item>
+  <item>Chapter 15</item>
+  <item>Chapter 16</item>
+  <item>Chapter 17</item>
+  <item>Chapter 18</item>
+  <item>Chapter 19</item>
+  <item>Chapter 20</item>
+  <item>Chapter 21</item>
+  <item>Chapter 22</item>
+  <item>Chapter 23</item>
+  <item>Chapter 24</item>
+  <item>Chapter 25</item>
+  <item>Chapter 26</item>
+  <item>Chapter 27</item>
+  <item>Chapter 28</item>
+  <item>Chapter 29</item>
+  <item>Chapter 30</item>
+  <item>Chapter 31</item>
+  <item>Chapter 32</item>
+  <item>Chapter 33</item>
+  <item>Chapter 34</item>
+  <item>Chapter 35</item>
+  <item>Chapter 36</item>
+  <item>Chapter 37</item>
+  <item>Chapter 38</item>
+  <item>Chapter 39</item>
+  <item>Chapter 40</item>
+  <item>Chapter 41</item>
+  <item>Chapter 42</item>
+  <item>Chapter 43</item>
+  <item>Chapter 44</item>
+  <item>Chapter 45</item>
+  <item>Chapter 46</item>
+  <item>Chapter 47</item>
+  <item>Chapter 48</item>
+  <item>Chapter 49</item>
+  <item>Chapter 50</item>
+  <item>Chapter 51</item>
+  <item>Chapter 52</item>
+  <item>Chapter 53</item>
+  <item>Chapter 54</item>
+</string-array>
+
+<string-array name="engDescriptions">
+  <item> How We Got the Book of Mormon</item>
+  <item> Lehi Warns the People</item>
+  <item> Lehi Leaves Jerusalem</item>
+  <item> The Brass Plates</item>
+  <item> Traveling in the Wilderness</item>
+  <item> Lehi’s Dream</item>
+  <item> Building the Ship</item>
+  <item> Crossing the Sea</item>
+  <item> A New Home in the Promised Land</item>
+  <item> Jacob and Sherem</item>
+  <item> Enos</item>
+  <item> King Benjamin</item>
+  <item> Zeniff</item>
+  <item> Abinadi and King Noah</item>
+  <item> Alma Teaches and Baptizes</item>
+  <item> King Limhi and His People Escape</item>
+  <item> Alma and His People Escape</item>
+  <item> Alma the Younger Repents</item>
+  <item> The Sons of Mosiah Become Missionaries</item>
+  <item> Alma and Nehor</item>
+  <item> The Amlicites</item>
+  <item> Alma’s Mission to Ammonihah</item>
+  <item> Ammon; A Great Servant</item>
+  <item> Ammon Meets King Lamoni’s Father</item>
+  <item> Aaron Teaches King Lamoni’s Father</item>
+  <item> The People of Ammon</item>
+  <item> Korihor</item>
+  <item> The Zoramites and the Rameumptom</item>
+  <item> Alma Teaches about Faith and the Word of God</item>
+  <item> Alma Counsels His Sons</item>
+  <item> Captain Moroni Defeats Zerahemnah</item>
+  <item> Captain Moroni and the Title of Liberty</item>
+  <item> King-Men versus Freemen</item>
+  <item> Helaman and the 2,000 Young Warriors</item>
+  <item> Captain Moroni and Pahoran</item>
+  <item> Hagoth</item>
+  <item> Nephi and Lehi in Prison</item>
+  <item> The Murder of the Chief Judge</item>
+  <item> Nephi Receives Great Power</item>
+  <item> Samuel the Lamanite Tells about Jesus Christ</item>
+  <item> The Signs of Christ’s Birth</item>
+  <item> The Signs of Christ’s Crucifixion</item>
+  <item> Jesus Christ Appears to the Nephites</item>
+  <item> Jesus Christ Blesses the Children</item>
+  <item> Jesus Christ Teaches about the Sacrament and Prayer</item>
+  <item> Peace in America</item>
+  <item> Mormon and His Teachings</item>
+  <item> Jesus Christ Teaches and Prays with the Nephites</item>
+  <item> Jesus Christ Blesses His Disciples</item>
+  <item> The Jaredites Leave Babel</item>
+  <item> The Jaredites Travel to the Promised Land</item>
+  <item> The Destruction of the Jaredites</item>
+  <item> Moroni and His Teachings</item>
+  <item> The Promise of the Book of Mormon</item>
+</string-array>
+
+<string-array name="deuTitles">
+  <item>1. Kapitel</item>
+  <item>2. Kapitel</item>
+  <item>3. Kapitel</item>
+  <item>4. Kapitel</item>
+  <item>5. Kapitel</item>
+  <item>6. Kapitel</item>
+  <item>7. Kapitel</item>
+  <item>8. Kapitel</item>
+  <item>9. Kapitel</item>
+  <item>10. Kapitel</item>
+  <item>11. Kapitel</item>
+  <item>12. Kapitel</item>
+  <item>13. Kapitel</item>
+  <item>14. Kapitel</item>
+  <item>15. Kapitel</item>
+  <item>16. Kapitel</item>
+  <item>17. Kapitel</item>
+  <item>18. Kapitel</item>
+  <item>19. Kapitel</item>
+  <item>20. Kapitel</item>
+  <item>21. Kapitel</item>
+  <item>22. Kapitel</item>
+  <item>23. Kapitel</item>
+  <item>24. Kapitel</item>
+  <item>25. Kapitel</item>
+  <item>26. Kapitel</item>
+  <item>27. Kapitel</item>
+  <item>28. Kapitel</item>
+  <item>29. Kapitel</item>
+  <item>30. Kapitel</item>
+  <item>31. Kapitel</item>
+  <item>32. Kapitel</item>
+  <item>33. Kapitel</item>
+  <item>34. Kapitel</item>
+  <item>35. Kapitel</item>
+  <item>36. Kapitel</item>
+  <item>37. Kapitel</item>
+  <item>38. Kapitel</item>
+  <item>39. Kapitel</item>
+  <item>40. Kapitel</item>
+  <item>41. Kapitel</item>
+  <item>42. Kapitel</item>
+  <item>43. Kapitel</item>
+  <item>44. Kapitel</item>
+  <item>45. Kapitel</item>
+  <item>46. Kapitel</item>
+  <item>47. Kapitel</item>
+  <item>48. Kapitel</item>
+  <item>49. Kapitel</item>
+  <item>50. Kapitel</item>
+  <item>51. Kapitel</item>
+  <item>52. Kapitel</item>
+  <item>53. Kapitel</item>
+  <item>54. Kapitel</item>
+</string-array>
+<string-array name="deuDescriptions">
+  <item>Wie wir das Buch Mormon erhalten haben</item>
+  <item>Lehi warnt die Menschen</item>
+  <item>Lehi geht von Jerusalem fort</item>
+  <item>Die Messingplatten</item>
+  <item>Die Reise durch die Wildnis</item>
+  <item>Lehis Traum</item>
+  <item>Ein Schiff wird gebaut</item>
+  <item>Lehi und seine Familie fahren über das Meer</item>
+  <item>Eine neue Heimat im verheissenen Land</item>
+  <item>Jakob und Scherem</item>
+  <item>Enos</item>
+  <item>König Benjamin</item>
+  <item>Zeniff</item>
+  <item>Abinadi und König Noa</item>
+  <item>Alma unterweist die Menschen und tauft sie</item>
+  <item>König Limhi und sein Volk fliehen</item>
+  <item>Alma entkommt mit seinen Anhängern</item>
+  <item>Alma der Jüngere kehrt um</item>
+  <item>Die Söhne Mosias werden Missionare</item>
+  <item>Alma und Nehor</item>
+  <item>Die Amlissiten</item>
+  <item>Almas Mission in Ammoniha</item>
+  <item>Ammon, ein grosser Knecht</item>
+  <item>Ammon begegnet König Lamonis Vater</item>
+  <item>Aaron belehrt König Lamonis Vater</item>
+  <item>Das Volk Ammon</item>
+  <item>Korihor</item>
+  <item>Die Zoramiten und das Rameumpton</item>
+  <item>Alma spricht über den Glauben und das Wort Gottes</item>
+  <item>Alma unterweist seine Söhne</item>
+  <item>Hauptmann Moroni besiegt Zerahemnach</item>
+  <item>Hauptmann Moroni und das Recht auf Freiheit</item>
+  <item>Die Königsleute gegen die Freiheitsleute</item>
+  <item>Helaman und die zweitausend jungen Krieger</item>
+  <item>Hauptmann Moroni und Pahoran</item>
+  <item>Hagot</item>
+  <item>Nephi und Lehi im Gefängnis</item>
+  <item>Die Ermordung des Obersten Richters</item>
+  <item>Nephi empfängt grosse Macht</item>
+  <item>Samuel der Lamanit verkündigt Jesus Christus</item>
+  <item>Die Zeichen der Geburt Christi</item>
+  <item>Die Zeichen der Kreuzigung Christi</item>
+  <item>Jesus Christus erscheint den Nephiten</item>
+  <item>Jesus Christus segnet die Kinder</item>
+  <item>Jesus Christus erklärt das Abendmahl und das Beten</item>
+  <item>Jesus Christus unterweist die Nephiten und betet mit ihnen</item>
+  <item>Jesus Christus segnet seine Jünger</item>
+  <item>Frieden in Amerika</item>
+  <item>Mormon und seine Lehren</item>
+  <item>Die Jarediten verlassen Babel</item>
+  <item>Die Jarediten reisen in das verheissene Land</item>
+  <item>Die Vernichtung der Jarediten</item>
+  <item>Moroni und seine Lehren</item>
+  <item>Die Verheissung des Buches Mormon</item>
+</string-array>
+
+<string-array name="spaTitles">
+  <item>Capítulo 1</item>
+  <item>Capítulo 2</item>
+  <item>Capítulo 3</item>
+  <item>Capítulo 4</item>
+  <item>Capítulo 5</item>
+  <item>Capítulo 6</item>
+  <item>Capítulo 7</item>
+  <item>Capítulo 8</item>
+  <item>Capítulo 9</item>
+  <item>Capítulo 10</item>
+  <item>Capítulo 11</item>
+  <item>Capítulo 12</item>
+  <item>Capítulo 13</item>
+  <item>Capítulo 14</item>
+  <item>Capítulo 15</item>
+  <item>Capítulo 16</item>
+  <item>Capítulo 17</item>
+  <item>Capítulo 18</item>
+  <item>Capítulo 19</item>
+  <item>Capítulo 20</item>
+  <item>Capítulo 21</item>
+  <item>Capítulo 22</item>
+  <item>Capítulo 23</item>
+  <item>Capítulo 24</item>
+  <item>Capítulo 25</item>
+  <item>Capítulo 26</item>
+  <item>Capítulo 27</item>
+  <item>Capítulo 28</item>
+  <item>Capítulo 29</item>
+  <item>Capítulo 30</item>
+  <item>Capítulo 31</item>
+  <item>Capítulo 32</item>
+  <item>Capítulo 33</item>
+  <item>Capítulo 34</item>
+  <item>Capítulo 35</item>
+  <item>Capítulo 36</item>
+  <item>Capítulo 37</item>
+  <item>Capítulo 38</item>
+  <item>Capítulo 39</item>
+  <item>Capítulo 40</item>
+  <item>Capítulo 41</item>
+  <item>Capítulo 42</item>
+  <item>Capítulo 43</item>
+  <item>Capítulo 44</item>
+  <item>Capítulo 45</item>
+  <item>Capítulo 46</item>
+  <item>Capítulo 47</item>
+  <item>Capítulo 48</item>
+  <item>Capítulo 49</item>
+  <item>Capítulo 50</item>
+  <item>Capítulo 51</item>
+  <item>Capítulo 52</item>
+  <item>Capítulo 53</item>
+  <item>Capítulo 54</item>
+</string-array>
+<string-array name="spaDescriptions">
+  <item>Cómo obtuvimos el Libro de Mormón</item>
+  <item>Lehi amonesta a la gente</item>
+  <item>Lehi sale de Jerusalén</item>
+  <item>Las planchas de bronce</item>
+  <item>El viaje a través del desierto</item>
+  <item>El sueño de Lehi</item>
+  <item>La construcción del barco</item>
+  <item>El viaje por el mar</item>
+  <item>Un nuevo hogar en la tierra prometida</item>
+  <item>Jacob y Sherem</item>
+  <item>Enós</item>
+  <item>El rey Benjamín</item>
+  <item>Zeniff</item>
+  <item>Abinadí y el rey Noé</item>
+  <item>Alma enseña y bautiza</item>
+  <item>La huida del rey Limhi y de su pueblo</item>
+  <item>La huida de Alma y de su pueblo</item>
+  <item>Alma, hijo, se arrepiente</item>
+  <item>Los hijos de Mosíah se convierten en misioneros</item>
+  <item>Alma y Nehor</item>
+  <item>Los amlicitas</item>
+  <item>La misión de Alma en Ammoníah</item>
+  <item>Ammón, un gran siervo</item>
+  <item>Ammón conoce al padre del rey Lamoni</item>
+  <item>Aarón enseña al padre del rey Lamoni</item>
+  <item>El pueblo de Ammón</item>
+  <item>Korihor</item>
+  <item>Los zoramitas y el Rameúmptom</item>
+  <item>Alma enseña en cuanto a la fe y la palabra de Dios</item>
+  <item>Alma aconseja a sus hijos</item>
+  <item>El capitán Moroni derrota a Zerahemna</item>
+  <item>El capitán Moroni y el estandarte de la libertad</item>
+  <item>Los realistas contra los hombres libres</item>
+  <item>Helamán y los dos mil jóvenes guerreros</item>
+  <item>El capitán Moroni y Pahorán</item>
+  <item>Hagot</item>
+  <item>Nefi y Lehi son encarcelados</item>
+  <item>El asesinato del juez superior</item>
+  <item>Nefi recibe gran poder</item>
+  <item>Samuel el Lamanita profetiza en cuanto a Jesucristo</item>
+  <item>Las señales del nacimiento de Cristo</item>
+  <item>Las señales de la crucifixión de Cristo</item>
+  <item>Jesucristo se aparece a los nefitas</item>
+  <item>Jesucristo bendice a los niños</item>
+  <item>Jesucristo enseña sobre la Santa Cena y la oración</item>
+  <item>Jesucristo enseña a los nefitas y ora con ellos</item>
+  <item>Jesucristo bendice a Sus discípulos</item>
+  <item>Paz en América</item>
+  <item>Mormón y sus enseñanzas</item>
+  <item>Los jareditas salen de Babel</item>
+  <item>Los jareditas viajan hacia la tierra prometida</item>
+  <item>La destrucción de los jareditas</item>
+  <item>Moroni y sus enseñanzas</item>
+  <item>La promesa del Libro de Mormón</item>
+</string-array>
+
+<string-array name="fraTitles">
+  <item>Chapitre 1</item>
+  <item>Chapitre 2</item>
+  <item>Chapitre 3</item>
+  <item>Chapitre 4</item>
+  <item>Chapitre 5</item>
+  <item>Chapitre 6</item>
+  <item>Chapitre 7</item>
+  <item>Chapitre 8</item>
+  <item>Chapitre 9</item>
+  <item>Chapitre 10</item>
+  <item>Chapitre 11</item>
+  <item>Chapitre 12</item>
+  <item>Chapitre 13</item>
+  <item>Chapitre 14</item>
+  <item>Chapitre 15</item>
+  <item>Chapitre 16</item>
+  <item>Chapitre 17</item>
+  <item>Chapitre 18</item>
+  <item>Chapitre 19</item>
+  <item>Chapitre 20</item>
+  <item>Chapitre 21</item>
+  <item>Chapitre 22</item>
+  <item>Chapitre 23</item>
+  <item>Chapitre 24</item>
+  <item>Chapitre 25</item>
+  <item>Chapitre 26</item>
+  <item>Chapitre 27</item>
+  <item>Chapitre 28</item>
+  <item>Chapitre 29</item>
+  <item>Chapitre 30</item>
+  <item>Chapitre 31</item>
+  <item>Chapitre 32</item>
+  <item>Chapitre 33</item>
+  <item>Chapitre 34</item>
+  <item>Chapitre 35</item>
+  <item>Chapitre 36</item>
+  <item>Chapitre 37</item>
+  <item>Chapitre 38</item>
+  <item>Chapitre 39</item>
+  <item>Chapitre 40</item>
+  <item>Chapitre 41</item>
+  <item>Chapitre 42</item>
+  <item>Chapitre 43</item>
+  <item>Chapitre 44</item>
+  <item>Chapitre 45</item>
+  <item>Chapitre 46</item>
+  <item>Chapitre 47</item>
+  <item>Chapitre 48</item>
+  <item>Chapitre 49</item>
+  <item>Chapitre 50</item>
+  <item>Chapitre 51</item>
+  <item>Chapitre 52</item>
+  <item>Chapitre 53</item>
+  <item>Chapitre 54</item>
+</string-array>
+<string-array name="fraDescriptions">
+  <item>Comment nous avons obtenu le Livre de Mormon</item>
+  <item>Léhi avertit les gens</item>
+  <item>Léhi quitte Jérusalem</item>
+  <item>Les plaques d’airain</item>
+  <item>Le voyage dans le désert</item>
+  <item>Le songe de Léhi</item>
+  <item>La construction du vaisseau</item>
+  <item>La traversée de la mer</item>
+  <item>Un nouveau foyer en terre promise</item>
+  <item>Jacob et Shérem</item>
+  <item>Enos</item>
+  <item>Le roi Benjamin</item>
+  <item>Zéniff</item>
+  <item>Abinadi et le roi Noé</item>
+  <item>Alma instruit et baptise</item>
+  <item>Le roi Limhi et son peuple s’enfuient</item>
+  <item>Alma et son peuple s’échappent</item>
+  <item>Alma le jeune se repent</item>
+  <item>Les fils de Mosiah deviennent missionnaires</item>
+  <item>Alma et Néhor</item>
+  <item>Les Amlicites</item>
+  <item>La mission d’Alma à Ammonihah</item>
+  <item>Ammon est un grand serviteur</item>
+  <item>Ammon rencontre le père du roi Lamoni</item>
+  <item>Ammon instruit le père du roi Lamoni</item>
+  <item>Le peuple d’Ammon</item>
+  <item>Korihor</item>
+  <item>Les Zoramites et le Raméumptom</item>
+  <item>Alma enseigne la foi et la parole de Dieu</item>
+  <item>Alma donne des conseils à ses fils</item>
+  <item>Le capitaine Moroni bat Zérahemnah</item>
+  <item>Le capitaine Moroni et l’étendard de la liberté</item>
+  <item>Les hommes-du-roi contre les hommes-libres</item>
+  <item>Hélaman et les 2000 jeunes guerriers</item>
+  <item>Le capitaine Moroni et Pahoran</item>
+  <item>Hagoth</item>
+  <item>Néphi et Léhi en prison</item>
+  <item>Le meurtre du grand juge</item>
+  <item>Néphi reçoit un grand pouvoir</item>
+  <item>Samuel le Lamanite parle de Jésus-Christ</item>
+  <item>Les signes de la naissance du Christ</item>
+  <item>Les signes de la crucifixion du Christ</item>
+  <item>Jésus-Christ apparaît aux Néphites</item>
+  <item>Jésus-Christ bénit les enfants</item>
+  <item>Jésus-Christ enseigne la Sainte-Cène et la prière</item>
+  <item>Jésus-Christ instruit les Néphites et prie avec eux</item>
+  <item>Jésus-Christ bénit ses disciples</item>
+  <item>La paix en Amérique</item>
+  <item>Mormon et ses enseignements</item>
+  <item>Les Jarédites quittent Babel</item>
+  <item>Le voyage des Jarédites jusqu’à la Terre promise</item>
+  <item>La destruction des Jarédites</item>
+  <item>Moroni et ses enseignements</item>
+  <item>La promesse du Livre de Mormon</item>
+</string-array>
+
+<string-array name="itaTitles">
+  <item>Capitolo 1</item>
+  <item>Capitolo 2</item>
+  <item>Capitolo 3</item>
+  <item>Capitolo 4</item>
+  <item>Capitolo 5</item>
+  <item>Capitolo 6</item>
+  <item>Capitolo 7</item>
+  <item>Capitolo 8</item>
+  <item>Capitolo 9</item>
+  <item>Capitolo 10</item>
+  <item>Capitolo 11</item>
+  <item>Capitolo 12</item>
+  <item>Capitolo 13</item>
+  <item>Capitolo 14</item>
+  <item>Capitolo 15</item>
+  <item>Capitolo 16</item>
+  <item>Capitolo 17</item>
+  <item>Capitolo 18</item>
+  <item>Capitolo 19</item>
+  <item>Capitolo 20</item>
+  <item>Capitolo 21</item>
+  <item>Capitolo 22</item>
+  <item>Capitolo 23</item>
+  <item>Capitolo 24</item>
+  <item>Capitolo 25</item>
+  <item>Capitolo 26</item>
+  <item>Capitolo 27</item>
+  <item>Capitolo 28</item>
+  <item>Capitolo 29</item>
+  <item>Capitolo 30</item>
+  <item>Capitolo 31</item>
+  <item>Capitolo 32</item>
+  <item>Capitolo 34</item>
+  <item>Capitolo 33</item>
+  <item>Capitolo 35</item>
+  <item>Capitolo 36</item>
+  <item>Capitolo 37</item>
+  <item>Capitolo 38</item>
+  <item>Capitolo 39</item>
+  <item>Capitolo 40</item>
+  <item>Capitolo 41</item>
+  <item>Capitolo 42</item>
+  <item>Capitolo 43</item>
+  <item>Capitolo 44</item>
+  <item>Capitolo 45</item>
+  <item>Capitolo 46</item>
+  <item>Capitolo 47</item>
+  <item>Capitolo 48</item>
+  <item>Capitolo 49</item>
+  <item>Capitolo 50</item>
+  <item>Capitolo 51</item>
+  <item>Capitolo 52</item>
+  <item>Capitolo 53</item>
+  <item>Capitolo 54</item>
+</string-array>
+<string-array name="itaDescriptions">
+  <item>Come abbiamo ricevuto il Libro di Mormon</item>
+  <item>Lehi ammonisce il popolo</item>
+  <item>Lehi lascia Gerusalemme</item>
+  <item>La tavole di bronzo</item>
+  <item>Il viaggio nel deserto</item>
+  <item>Il sogno di Lehi</item>
+  <item>La costruzione della nave</item>
+  <item>La traversata del mare</item>
+  <item>Una nuova patria nella Terra Promessa</item>
+  <item>Giacobbe e Sherem</item>
+  <item>Enos</item>
+  <item>Re Beniamino</item>
+  <item>Zeniff</item>
+  <item>Abinadi e re Noè</item>
+  <item>Alma insegna e battezza</item>
+  <item>La fuga di re Limhi e del suo popolo</item>
+  <item>La fuga di Alma e del suo popolo</item>
+  <item>Il pentimento di Alma il Giovane</item>
+  <item>I figli di Mosia diventano missionari</item>
+  <item>Alma e Nehor</item>
+  <item>Gli Amliciti</item>
+  <item>La missione di Alma ad Ammoniha</item>
+  <item>Ammon, un grande servo di Dio</item>
+  <item>Ammon incontra il padre di re Lamoni</item>
+  <item>Aaronne insegna al padre di re Lamoni</item>
+  <item>Il popolo di Ammon</item>
+  <item>Korihor</item>
+  <item>Gli Zoramiti e il Rameumptom</item>
+  <item>Alma parla della fede e della parola di Dio</item>
+  <item>Consigli di Alma ai suoi figli</item>
+  <item>Il comandante Moroni sconfigge Zerahemna</item>
+  <item>Il comandante Moroni e lo stendardo della libertà</item>
+  <item>Helaman e i duemila giovani guerrieri</item>
+  <item>Gli uomini del re contro gli uomini liberi</item>
+  <item>Il comandante Moroni e Pahoran</item>
+  <item>Hagoth</item>
+  <item>Nefi e Lehi in carcere</item>
+  <item>L’assassinio del giudice supremo</item>
+  <item>Nefi riceve un grande potere</item>
+  <item>Samuele il Lamanita parla di Gesù Cristo</item>
+  <item>I segni della nascita di Cristo</item>
+  <item>I segni della crocifissione di Cristo</item>
+  <item>Gesù Cristo appare ai Nefiti</item>
+  <item>Gesù Cristo benedice i bambini</item>
+  <item>Gesù Cristo spiega il sacramento e la preghiera</item>
+  <item>Gesù Cristo ammaestra i Nefiti e prega con loro</item>
+  <item>Gesù Cristo benedice i Suoi discepoli</item>
+  <item>La pace in America</item>
+  <item>Mormon e i suoi insegnamenti</item>
+  <item>I Giarediti lasciano Babele</item>
+  <item>I Giarediti raggiungono la Terra Promessa</item>
+  <item>La distruzione dei Giarediti</item>
+  <item>Moroni e i suoi insegnamenti</item>
+  <item>La promessa del Libro di Mormon</item>
+</string-array>
+
+<string-array name="porTitles">
+  <item>Capítulo 1</item>
+  <item>Capítulo 2</item>
+  <item>Capítulo 3</item>
+  <item>Capítulo 4</item>
+  <item>Capítulo 5</item>
+  <item>Capítulo 6</item>
+  <item>Capítulo 7</item>
+  <item>Capítulo 8</item>
+  <item>Capítulo 9</item>
+  <item>Capítulo 10</item>
+  <item>Capítulo 11</item>
+  <item>Capítulo 12</item>
+  <item>Capítulo 13</item>
+  <item>Capítulo 14</item>
+  <item>Capítulo 15</item>
+  <item>Capítulo 16</item>
+  <item>Capítulo 17</item>
+  <item>Capítulo 18</item>
+  <item>Capítulo 19</item>
+  <item>Capítulo 20</item>
+  <item>Capítulo 21</item>
+  <item>Capítulo 22</item>
+  <item>Capítulo 23</item>
+  <item>Capítulo 24</item>
+  <item>Capítulo 25</item>
+  <item>Capítulo 26</item>
+  <item>Capítulo 27</item>
+  <item>Capítulo 28</item>
+  <item>Capítulo 29</item>
+  <item>Capítulo 30</item>
+  <item>Capítulo 31</item>
+  <item>Capítulo 32</item>
+  <item>Capítulo 33</item>
+  <item>Capítulo 34</item>
+  <item>Capítulo 35</item>
+  <item>Capítulo 36</item>
+  <item>Capítulo 37</item>
+  <item>Capítulo 38</item>
+  <item>Capítulo 39</item>
+  <item>Capítulo 40</item>
+  <item>Capítulo 41</item>
+  <item>Capítulo 42</item>
+  <item>Capítulo 43</item>
+  <item>Capítulo 44</item>
+  <item>Capítulo 45</item>
+  <item>Capítulo 46</item>
+  <item>Capítulo 47</item>
+  <item>Capítulo 48</item>
+  <item>Capítulo 49</item>
+  <item>Capítulo 50</item>
+  <item>Capítulo 51</item>
+  <item>Capítulo 52</item>
+  <item>Capítulo 53</item>
+  <item>Capítulo 54</item>
+</string-array>
+<string-array name="porDescriptions">
+  <item>Como o Livro de Mórmon Chegou até Nós</item>
+  <item>Leí Adverte o Povo</item>
+  <item>Leí Parte de Jerusalém</item>
+  <item>As Placas de Latão</item>
+  <item>A Viagem pelo Deserto</item>
+  <item>O Sonho de Leí</item>
+  <item>A Construção do Navio</item>
+  <item>A Viagem pelo Mar</item>
+  <item>Um Novo Lar na Terra Prometida</item>
+  <item>Jacó e Serém</item>
+  <item>Enos</item>
+  <item>O Rei Benjamim</item>
+  <item>Zênife</item>
+  <item>Abinádi e o Rei Noé</item>
+  <item>Alma Ensina e Batiza</item>
+  <item>O Rei Lími Escapa com Seu Povo</item>
+  <item>A Fuga do Povo de Alma</item>
+  <item>Alma, o Filho, Arrepende-se</item>
+  <item>Os Filhos de Mosias Tornam-se Missionários</item>
+  <item>Alma e Neor</item>
+  <item>Os Anlicitas</item>
+  <item>A Missão de Alma em Amonia</item>
+  <item>Amon; O Grande Servo</item>
+  <item>Amon Encontra-se com o Pai do Rei Lamôni</item>
+  <item>Aarão Ensina ao Pai do Rei Lamôni</item>
+  <item>O Povo de Amon</item>
+  <item>Corior</item>
+  <item>Os Zoramitas e o Rameumptom</item>
+  <item>Alma Ensina a respeito da Fé e da Palavra de Deus</item>
+  <item>Alma Aconselha Seus Filhos</item>
+  <item>O Capitão Morôni Vence Zeraemna</item>
+  <item>O Capitão Morôni e o Estandarte da Liberdade</item>
+  <item>Os Realistas Contra os Homens Livres</item>
+  <item>Helamã e o Exército de 2.000 Jovens Soldados</item>
+  <item>O Capitão Morôni e Paorã</item>
+  <item>Hagote</item>
+  <item>Néfi e Leí na Prisão</item>
+  <item>O Assassinato do Juiz Supremo</item>
+  <item>Néfi Recebe Grande Poder</item>
+  <item>Samuel, o Lamanita, Fala a respeito de Jesus Cristo</item>
+  <item>Os Sinais do Nascimento de Cristo</item>
+  <item>Os Sinais da Crucificação de Cristo</item>
+  <item>Jesus Cristo Aparece aos Nefitas</item>
+  <item>Jesus Cristo Abençoa as Crianças</item>
+  <item>Jesus Cristo Ensina a respeito do Sacramento e da Oração</item>
+  <item>Jesus Cristo Ensina aos Nefitas e Ora com Eles</item>
+  <item>Jesus Cristo Abençoa Seus Discípulos</item>
+  <item>Paz nas Américas</item>
+  <item>Os Ensinamentos de Mórmon</item>
+  <item>Os Jareditas Partem de Babel</item>
+  <item>Os Jareditas Viajam para a Terra Prometida</item>
+  <item>A Destruição dos Jareditas</item>
+  <item>Os Ensinamentos de Morôni</item>
+  <item>A Promessa do Livro de Mórmon</item>
+</string-array>
+
+<string-array name="rusTitles">
+  <item>Глава 1</item>
+  <item>Глава 2</item>
+  <item>Глава 3</item>
+  <item>Глава 4</item>
+  <item>Глава 5</item>
+  <item>Глава 6</item>
+  <item>Глава 7</item>
+  <item>Глава 8</item>
+  <item>Глава 9</item>
+  <item>Глава 10</item>
+  <item>Глава 11</item>
+  <item>Глава 12</item>
+  <item>Глава 13</item>
+  <item>Глава 14</item>
+  <item>Глава 15</item>
+  <item>Глава 16</item>
+  <item>Глава 17</item>
+  <item>Глава 18</item>
+  <item>Глава 19</item>
+  <item>Глава 20</item>
+  <item>Глава 21</item>
+  <item>Глава 22</item>
+  <item>Глава 23</item>
+  <item>Глава 24</item>
+  <item>Глава 25</item>
+  <item>Глава 26</item>
+  <item>Глава 27</item>
+  <item>Глава 28</item>
+  <item>Глава 29</item>
+  <item>Глава 30</item>
+  <item>Глава 31</item>
+  <item>Глава 32</item>
+  <item>Глава 33</item>
+  <item>Глава 34</item>
+  <item>Глава 35</item>
+  <item>Глава 36</item>
+  <item>Глава 37</item>
+  <item>Глава 38</item>
+  <item>Глава 39</item>
+  <item>Глава 40</item>
+  <item>Глава 41</item>
+  <item>Глава 42</item>
+  <item>Глава 43</item>
+  <item>Глава 44</item>
+  <item>Глава 45</item>
+  <item>Глава 46</item>
+  <item>Глава 47</item>
+  <item>Глава 48</item>
+  <item>Глава 49</item>
+  <item>Глава 50</item>
+  <item>Глава 51</item>
+  <item>Глава 52</item>
+  <item>Глава 53</item>
+  <item>Глава 54</item>
+</string-array>
+<string-array name="rusDescriptions">
+  <item>Как мы получили Книгу Мормона</item>
+  <item>Легий предупреждает народ</item>
+  <item>Легий покидает Иерусалим</item>
+  <item>Медные листы</item>
+  <item>Путешествие в пустыне</item>
+  <item>Сон Легия</item>
+  <item>Как строился корабль</item>
+  <item>Путь через море</item>
+  <item>Новый дом в земле обетованной</item>
+  <item>Иаков и Шерем</item>
+  <item>Енос</item>
+  <item>Царъ Вениамин</item>
+  <item>Зениф</item>
+  <item>Авинадей и царь Ной</item>
+  <item>Алма учит и крестит свой народ</item>
+  <item>Спасение царя Лимхая и его народа</item>
+  <item>Спасение Алмы и его народа</item>
+  <item>Покаяние Алмы-младшего</item>
+  <item>Сыновья Мосии становятся миссионерами</item>
+  <item>Алма и Нехор</item>
+  <item>Амликийцы</item>
+  <item>Миссия Алмы в Аммонигах</item>
+  <item>Аммон; великий слуга</item>
+  <item>Аммон встречает отца царя Ламония</item>
+  <item>Аарон учит отца царя Ламония</item>
+  <item>Народ Аммона</item>
+  <item>Корихор</item>
+  <item>Зорамийцы и Рамеумптом</item>
+  <item>Алма учит вере и слову Божьему</item>
+  <item>Алма наставляет своих сыновей</item>
+  <item>Главнокоман-Дующий Мороний разбивает Зерагемнаха</item>
+  <item>Главнокоман-Дующий Мороний и знамя свободы</item>
+  <item>Сторонники царской власти против сторонников свободы</item>
+  <item>Геламан и две тысячи юных воинов</item>
+  <item>Главнокоман-Дующий Мороний и Пахоран</item>
+  <item>Хагоф</item>
+  <item>Нефий и Легий в тюрьме</item>
+  <item>Убийство верховного судьи</item>
+  <item>Нефий обретает великую силу</item>
+  <item>Самуил-Ламаниец рассказывает об Иисусе Христе</item>
+  <item>Знамения рождения Христа</item>
+  <item>Знамения распятия Христа</item>
+  <item>Явление Иисуса Христа Нефийцам</item>
+  <item>Иисус Христос благословляет детей</item>
+  <item>Иисус Христос учит причастию и молитве</item>
+  <item>Иисус Христос учит Нефийцев и молится вместе с ними</item>
+  <item>Иисус Христос благословляет Своих учеников</item>
+  <item>Мир в Америке</item>
+  <item>Мормон и его учения</item>
+  <item>Иаредейцы уходят из Вавилона</item>
+  <item>Иаредейцы направляются в землю обетованную</item>
+  <item>Истребление Иаредейцев</item>
+  <item>Мороний и его учения</item>
+  <item>Обещание Книги Мормона</item>
+</string-array>
+
+
+<string-array name="cmnTitles">
+  <item>第一章</item>
+  <item>第二章</item>
+  <item>第三章</item>
+  <item>第四章</item>
+  <item>第五章</item>
+  <item>第六章</item>
+  <item>第七章</item>
+  <item>第八章</item>
+  <item>第九章</item>
+  <item>第十章</item>
+  <item>第十一章</item>
+  <item>第十二章</item>
+  <item>第十三章</item>
+  <item>第十四章</item>
+  <item>第十五章</item>
+  <item>第十六章</item>
+  <item>第十七章</item>
+  <item>第十八章</item>
+  <item>第十九章</item>
+  <item>第二十章</item>
+  <item>第二十一章</item>
+  <item>第二十二章</item>
+  <item>第二十三章</item>
+  <item>第二十四章</item>
+  <item>第二十五章</item>
+  <item>第二十六章</item>
+  <item>第二十七章</item>
+  <item>第二十八章</item>
+  <item>第二十九章 </item>
+  <item>第三十章</item>
+  <item>第三十一章</item>
+  <item>第三十二章</item>
+  <item>第三十三章</item>
+  <item>第三十四章</item>
+  <item>第三十五章</item>
+  <item>第三十六章</item>
+  <item>第三十七章</item>
+  <item>第三十八章</item>
+  <item>第三十九章</item>
+  <item>第四十章</item>
+  <item>第四十一章</item>
+  <item>第四十二章</item>
+  <item>第四十三章</item>
+  <item>第四十四章</item>
+  <item>第四十五章</item>
+  <item>第四十六章</item>
+  <item>第四十七章</item>
+  <item>第四十八章</item>
+  <item>第四十九章</item>
+  <item>第五十章</item>
+  <item>第五十一章</item>
+  <item>第五十二章</item>
+  <item>第五十三章</item>
+  <item>第五十四章</item>
+</string-array>
+<string-array name="cmnDescriptions">
+  <item>我們如何得到摩爾門經</item>
+  <item>李海警告人民</item>
+  <item>李海離開耶路撒冷</item>
+  <item>銅頁片</item>
+  <item>在曠野中旅行</item>
+  <item>李海的夢</item>
+  <item>造船</item>
+  <item>飄洋過海</item>
+  <item>應許地上的新家園</item>
+  <item>雅各和歇雷</item>
+  <item>以挪士</item>
+  <item>便雅憫王</item>
+  <item>曾倪夫</item>
+  <item>阿賓納代和挪亞王</item>
+  <item>阿爾瑪教導人民並為他們施洗</item>
+  <item>林海王和他的人民逃離拉曼人</item>
+  <item>阿爾瑪和他的人民逃離拉曼人</item>
+  <item>小 阿爾瑪悔改</item>
+  <item>摩賽亞的兒子們去傳教</item>
+  <item>阿爾瑪和尼賀</item>
+  <item>愛姆立沙人</item>
+  <item>阿爾瑪在艾蒙乃哈城傳教</item>
+  <item>艾蒙; 偉大的僕人</item>
+  <item>艾蒙遇見拉摩那王的父親</item>
+  <item>亞倫教導拉摩那王的父親</item>
+  <item>艾蒙人</item>
+  <item>柯力何</item>
+  <item>卓倫人和雷米遏敦</item>
+  <item>阿爾瑪教導信心和神的話</item>
+  <item>阿爾瑪給兒子們的忠告</item>
+  <item>摩羅乃隊長打敗柴雷罕納</item>
+  <item>摩羅乃隊長和旗幟</item>
+  <item>國王派和自由派</item>
+  <item>希拉曼和兩千名青年戰士</item>
+  <item>摩羅乃隊長和派賀藍</item>
+  <item>海谷師</item>
+  <item>尼腓和李海被關進監獄</item>
+  <item>首席法官被殺</item>
+  <item>尼腓獲得力量</item>
+  <item>拉曼人撒母耳宣講耶穌基督的事</item>
+  <item>基督誕生的預兆</item>
+  <item>基督被釘死在十字架上的預兆</item>
+  <item>耶穌基督向尼腓人顯現</item>
+  <item>耶穌基督祝福小孩</item>
+  <item>耶穌基督教導聖餐和祈禱</item>
+  <item>耶穌基督教導尼腓人並和他們一起祈禱</item>
+  <item>耶穌基督祝福祂的門徒</item>
+  <item>美洲大陸的和平</item>
+  <item>摩爾門和他的教導</item>
+  <item>雅列人離開巴別</item>
+  <item>雅列人抵達應許地</item>
+  <item>雅列人的毀滅</item>
+  <item>摩羅乃和他的教導</item>
+  <item>摩爾門經的應許</item>
+</string-array>
+
+<string-array name="yueTitles">
+  <item>第一章</item>
+  <item>第二章</item>
+  <item>第三章</item>
+  <item>第四章</item>
+  <item>第五章</item>
+  <item>第六章</item>
+  <item>第七章</item>
+  <item>第八章</item>
+  <item>第九章</item>
+  <item>第十章</item>
+  <item>第十一章</item>
+  <item>第十二章</item>
+  <item>第十三章</item>
+  <item>第十四章</item>
+  <item>第十五章</item>
+  <item>第十六章</item>
+  <item>第十七章</item>
+  <item>第十八章</item>
+  <item>第十九章</item>
+  <item>第二十章</item>
+  <item>第二十一章</item>
+  <item>第二十二章</item>
+  <item>第二十三章</item>
+  <item>第二十四章</item>
+  <item>第二十五章</item>
+  <item>第二十六章</item>
+  <item>第二十七章</item>
+  <item>第二十八章</item>
+  <item>第二十九章 </item>
+  <item>第三十章</item>
+  <item>第三十一章</item>
+  <item>第三十二章</item>
+  <item>第三十三章</item>
+  <item>第三十四章</item>
+  <item>第三十五章</item>
+  <item>第三十六章</item>
+  <item>第三十七章</item>
+  <item>第三十八章</item>
+  <item>第三十九章</item>
+  <item>第四十章</item>
+  <item>第四十一章</item>
+  <item>第四十二章</item>
+  <item>第四十三章</item>
+  <item>第四十四章</item>
+  <item>第四十五章</item>
+  <item>第四十六章</item>
+  <item>第四十七章</item>
+  <item>第四十八章</item>
+  <item>第四十九章</item>
+  <item>第五十章</item>
+  <item>第五十一章</item>
+  <item>第五十二章</item>
+  <item>第五十三章</item>
+  <item>第五十四章</item>
+</string-array>
+<string-array name="yueDescriptions">
+  <item>我們如何得到摩爾門經</item>
+  <item>李海警告人民</item>
+  <item>李海離開耶路撒冷</item>
+  <item>銅頁片</item>
+  <item>在曠野中旅行</item>
+  <item>李海的夢</item>
+  <item>造船</item>
+  <item>飄洋過海</item>
+  <item>應許地上的新家園</item>
+  <item>雅各和歇雷</item>
+  <item>以挪士</item>
+  <item>便雅憫王</item>
+  <item>曾倪夫</item>
+  <item>阿賓納代和挪亞王</item>
+  <item>阿爾瑪教導人民並為他們施洗</item>
+  <item>林海王和他的人民逃離拉曼人</item>
+  <item>阿爾瑪和他的人民逃離拉曼人</item>
+  <item>小 阿爾瑪悔改</item>
+  <item>摩賽亞的兒子們去傳教</item>
+  <item>阿爾瑪和尼賀</item>
+  <item>愛姆立沙人</item>
+  <item>爾瑪在艾蒙乃哈城傳教</item>
+  <item>艾蒙; 偉大的僕人</item>
+  <item>艾蒙遇見拉摩那王的父親</item>
+  <item>亞倫教導拉摩那王的父親</item>
+  <item>艾蒙人</item>
+  <item>柯力何</item>
+  <item>卓倫人和雷米遏敦</item>
+  <item>阿爾瑪教導信心和神的話</item>
+  <item>阿爾瑪給兒子們的忠告</item>
+  <item>摩羅乃隊長打敗柴雷罕納</item>
+  <item>摩羅乃隊長和旗幟</item>
+  <item>國王派和自由派</item>
+  <item>希拉曼和兩千名青年戰士</item>
+  <item>摩羅乃隊長和派賀藍</item>
+  <item>海谷師</item>
+  <item>尼腓和李海被關進監獄</item>
+  <item>首席法官被殺</item>
+  <item>尼腓獲得力量</item>
+  <item>拉曼人撒母耳宣講耶穌基督的事</item>
+  <item>基督誕生的預兆</item>
+  <item>基督被釘死在十字架上的預兆</item>
+  <item>耶穌基督向尼腓人顯現</item>
+  <item>耶穌基督祝福小孩</item>
+  <item>耶穌基督教導聖餐和祈禱</item>
+  <item>耶穌基督教導尼腓人並和他們一起祈禱</item>
+  <item>耶穌基督祝福祂的門徒</item>
+  <item>美洲大陸的和平</item>
+  <item>摩爾門和他的教導</item>
+  <item>雅列人離開巴別</item>
+  <item>雅列人抵達應許地</item>
+  <item>雅列人的毀滅</item>
+  <item>摩羅乃和他的教導</item>
+  <item>摩爾門經的應許</item>
+</string-array>
+
+<string-array name="jpnTitles">
+  <item>第一章</item>
+  <item>第二章</item>
+  <item>第三章</item>
+  <item>第四章</item>
+  <item>第五章</item>
+  <item>第六章</item>
+  <item>第七章</item>
+  <item>第八章</item>
+  <item>第九章</item>
+  <item>第十章</item>
+  <item>第十一章</item>
+  <item>第十二章</item>
+  <item>第十三章</item>
+  <item>第十四章</item>
+  <item>第十五章</item>
+  <item>第十六章</item>
+  <item>第十七章</item>
+  <item>第十八章</item>
+  <item>第十九章</item>
+  <item>第二十章</item>
+  <item>第二十一章</item>
+  <item>第二十二章</item>
+  <item>第二十三章</item>
+  <item>第二十四章</item>
+  <item>第二十五章</item>
+  <item>第二十六章</item>
+  <item>第二十七章</item>
+  <item>第二十八章</item>
+  <item>第二十九章</item>
+  <item>第三十章</item>
+  <item>第三十一章</item>
+  <item>第三十二章</item>
+  <item>第三十三章</item>
+  <item>第三十四章</item>
+  <item>第三十五章</item>
+  <item>第三十六章</item>
+  <item>第三十七章</item>
+  <item>第三十八章</item>
+  <item>第三十九章</item>
+  <item>第四十章</item>
+  <item>第四十一章</item>
+  <item>第四十二章</item>
+  <item>第四十三章</item>
+  <item>第四十四章</item>
+  <item>第四十五章</item>
+  <item>第四十六章</item>
+  <item>第四十七章</item>
+  <item>第四十八章</item>
+  <item>第四十九章</item>
+  <item>第五十章</item>
+  <item>第五十一章</item>
+  <item>第五十二章</item>
+  <item>第五十三章</item>
+  <item>第五十四章</item>
+</string-array>
+<string-array name="jpnDescriptions">
+  <item>我們如何得到摩爾門經</item>
+  <item>李海警告人民</item>
+  <item>李海離開耶路撒冷</item>
+  <item>銅頁片</item>
+  <item>在曠野中旅行</item>
+  <item>李海的夢</item>
+  <item>造船</item>
+  <item>飄洋過海</item>
+  <item>應許地上的新家園</item>
+  <item>雅各和歇雷</item>
+  <item>以挪士</item>
+  <item>便雅憫王</item>
+  <item>曾倪夫</item>
+  <item>阿賓納代和挪亞王</item>
+  <item>阿爾瑪教導人民並為他們施洗</item>
+  <item>林海王和他的人民逃離拉曼人</item>
+  <item>阿爾瑪和他的人民逃離拉曼人</item>
+  <item>小 阿爾瑪悔改</item>
+  <item>摩賽亞的兒子們去傳教</item>
+  <item>阿爾瑪和尼賀</item>
+  <item>愛姆立沙人</item>
+  <item>阿爾瑪在艾蒙乃哈城傳教</item>
+  <item>艾蒙; 偉大的僕人</item>
+  <item>艾蒙遇見拉摩那王的父親</item>
+  <item>亞倫教導拉摩那王的父親</item>
+  <item>艾蒙人</item>
+  <item>柯力何</item>
+  <item>卓倫人和雷米遏敦</item>
+  <item>阿爾瑪教導信心和神的話</item>
+  <item>阿爾瑪給兒子們的忠告</item>
+  <item>摩羅乃隊長打敗柴雷罕納</item>
+  <item>摩羅乃隊長和旗幟</item>
+  <item>國王派和自由派</item>
+  <item>希拉曼和兩千名青年戰士</item>
+  <item>摩羅乃隊長和派賀藍</item>
+  <item>海谷師</item>
+  <item>尼腓和李海被關進監獄</item>
+  <item>首席法官被殺</item>
+  <item>尼腓獲得力量</item>
+  <item>拉曼人撒母耳宣講耶穌基督的事</item>
+  <item>基督誕生的預兆</item>
+  <item>基督被釘死在十字架上的預兆</item>
+  <item>耶穌基督向尼腓人顯現</item>
+  <item>耶穌基督祝福小孩</item>
+  <item>耶穌基督教導聖餐和祈禱</item>
+  <item>耶穌基督教導尼腓人並和他們一起祈禱</item>
+  <item>耶穌基督祝福祂的門徒</item>
+  <item>美洲大陸的和平</item>
+  <item>摩爾門和他的教導</item>
+  <item>雅列人離開巴別</item>
+  <item>雅列人抵達應許地</item>
+  <item>雅列人的毀滅</item>
+  <item>摩羅乃和他的教導</item>
+  <item>摩爾門經的應許</item>
+</string-array>
+
+<string-array name="korTitles">
+  <item>제 1 장</item>
+  <item>제 2 장</item>
+  <item>제 3 장</item>
+  <item>제 4 장</item>
+  <item>제 5 장</item>
+  <item>제 6 장</item>
+  <item>제 7 장</item>
+  <item>제 8 장</item>
+  <item>제 9 장</item>
+  <item>제 10 장</item>
+  <item>제 11 장</item>
+  <item>제 12 장</item>
+  <item>제 13 장</item>
+  <item>제 14 장</item>
+  <item>제 15 장</item>
+  <item>제 16 장</item>
+  <item>제 17 장</item>
+  <item>제 18 장</item>
+  <item>제 19 장</item>
+  <item>제 20 장</item>
+  <item>제 21 장</item>
+  <item>제 22 장</item>
+  <item>제 23 장</item>
+  <item>제 24 장</item>
+  <item>제 25 장</item>
+  <item>제 26 장</item>
+  <item>제 27 장</item>
+  <item>제 28 장</item>
+  <item>제 29 장</item>
+  <item>제 30 장</item>
+  <item>제 31 장</item>
+  <item>제 32 장</item>
+  <item>제 33 장</item>
+  <item>제 34 장</item>
+  <item>제 35 장</item>
+  <item>제 36 장</item>
+  <item>제 37 장</item>
+  <item>제 38 장</item>
+  <item>제 39 장</item>
+  <item>제 40 장</item>
+  <item>제 41 장</item>
+  <item>제 42 장</item>
+  <item>제 43 장</item>
+  <item>제 44 장</item>
+  <item>제 45 장</item>
+  <item>제 46 장</item>
+  <item>제 47 장</item>
+  <item>제 48 장</item>
+  <item>제 49 장</item>
+  <item>제 50 장</item>
+  <item>제 51 장</item>
+  <item>제 52 장</item>
+  <item>제 53 장</item>
+  <item>제 54 장</item>
+</string-array>
+<string-array name="korDescriptions">
+  <item>몰몬경이 나온 과정</item>
+  <item>리하이가 백성들에게 경고함</item>
+  <item>리하이가 예루살렘을 떠남</item>
+  <item>놋쇠판</item>
+  <item>광야 여행</item>
+  <item>리하이의 꿈</item>
+  <item>배를 만듦</item>
+  <item>바다를 건넘</item>
+  <item>약속의 땅에서의 새로운 가정</item>
+  <item>야곱과 시렘</item>
+  <item>이노스</item>
+  <item>베냐민 왕</item>
+  <item>지니프</item>
+  <item>아빈아다이와 노아 왕</item>
+  <item>앨마가 복음을 가르치고 침례를 줌</item>
+  <item>림하이 왕과 그의 백성의 탈출</item>
+  <item>앨마와 그의 백성들이 달아남</item>
+  <item>앨마 이세가 회개함</item>
+  <item>모사이야의 아들들이 선교사가 됨</item>
+  <item>앨마와 니허</item>
+  <item>애믈리싸이인</item>
+  <item>앰몬아이하에서의 앨마의 선교 사업</item>
+  <item>암몬, 위대한 종</item>
+  <item>암몬이 라모나이 왕의 아버지를 만남</item>
+  <item>라모나이 왕의 부친을 가르치는 아론</item>
+  <item>암몬 백성</item>
+  <item>코리호어</item>
+  <item>조램인과 래미움프톰</item>
+  <item>앨마가 신앙과 하나님의 말씀에 대해 가르침</item>
+  <item>앨마가 그의 아들들에게 권고함</item>
+  <item>모로나이 대장이 제래헴나를 패배시킴</item>
+  <item>모로나이 대장과 자유의 기치</item>
+  <item>왕당파 대 자유파</item>
+  <item>힐라맨과 이천 명의 젊은 용사들</item>
+  <item>대장 모로나이와 페이호랜</item>
+  <item>헤이고드</item>
+  <item>감옥에 갇힌 리하이와 니파이</item>
+  <item>대판사의 암살</item>
+  <item>니파이가 큰 권능을 얻음</item>
+  <item>레이맨인 사무엘이 예수 그리스도에 관해 이야기함</item>
+  <item>그리스도 탄생의 징조</item>
+  <item>그리스도께서 십자가에 달리실 때의 표적</item>
+  <item>예수 그리스도께서 니파이인들에게 나타나심</item>
+  <item>예수 그리스도께서 어린아이들을 축복하심</item>
+  <item>예수 그리스도께서 성찬과 기도를 가르치심</item>
+  <item>예수께서 니파이 백성들을 가르치시고 저들과 함께 기도하심</item>
+  <item>예수 그리스도께서 제자들을 축복하심</item>
+  <item>미대륙에 평화가 찾아옴</item>
+  <item>몰몬과 그의 가르침</item>
+  <item>야렛인들이 바벨을 떠남</item>
+  <item>야렛 백성들이 약속의 땅으로 감</item>
+  <item>야렛 백성들의 멸망</item>
+  <item>모로나이와 그의 가르침</item>
+  <item>몰몬경의 약속</item>
+</string-array>
+
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="qualityArray">
+   <item>360p</item>
+   <item>480p</item>
+</string-array>
+ 
+<string-array name="mediaTypeArray">
+   <item>mp4</item>
+</string-array>
+
+<string-array name="languageArray">
+   <item>English</item>
+</string-array>
+
+<string-array name="languageValues">
+   <item>eng</item>
+</string-array>
+
+<string-array name="engTitles">
+	<item>Chapter 1</item>
+	<item>Chapter 2</item>
+	<item>Chapter 3</item>
+	<item>Chapter 4</item>
+	<item>Chapter 5</item>
+	<item>Chapter 6</item>
+	<item>Chapter 7</item>
+	<item>Chapter 8</item>
+	<item>Chapter 9</item>
+	<item>Chapter 10</item>
+	<item>Chapter 11</item>
+	<item>Chapter 12</item>
+	<item>Chapter 13</item>
+	<item>Chapter 14</item>
+	<item>Chapter 15</item>
+	<item>Chapter 16</item>
+	<item>Chapter 17</item>
+	<item>Chapter 18</item>
+	<item>Chapter 19</item>
+	<item>Chapter 20</item>
+	<item>Chapter 21</item>
+	<item>Chapter 22</item>
+	<item>Chapter 23</item>
+	<item>Chapter 24</item>
+	<item>Chapter 25</item>
+	<item>Chapter 26</item>
+	<item>Chapter 27</item>
+	<item>Chapter 28</item>
+	<item>Chapter 29</item>
+	<item>Chapter 30</item>
+	<item>Chapter 31</item>
+	<item>Chapter 32</item>
+	<item>Chapter 33</item>
+	<item>Chapter 34</item>
+	<item>Chapter 35</item>
+	<item>Chapter 36</item>
+	<item>Chapter 37</item>
+	<item>Chapter 38</item>
+	<item>Chapter 39</item>
+	<item>Chapter 40</item>
+	<item>Chapter 41</item>
+	<item>Chapter 42</item>
+	<item>Chapter 43</item>
+	<item>Chapter 44</item>
+	<item>Chapter 45</item>
+	<item>Chapter 46</item>
+	<item>Chapter 47</item>
+	<item>Chapter 48</item>
+</string-array>
+
+<string-array name="engDescriptions">
+	<item> Before the Old Testament</item>
+	<item> Jesus Makes the Earth</item>
+	<item> Adam and Eve</item>
+	<item> Adam and His Family</item>
+	<item> Enoch</item>
+	<item> Noah</item>
+	<item> The Tower of Babel</item>
+	<item> Abraham</item>
+	<item> Abraham and the Sacrifice of    Isaac</item>
+	<item> Jacob and Esau</item>
+	<item> Jacob and His Family</item>
+	<item> Joseph</item>
+	<item> Joseph in Egypt</item>
+	<item> Joseph\'s Brothers in Egypt</item>
+	<item> The Baby Moses</item>
+	<item> The Prophet Moses</item>
+	<item> The Passover</item>
+	<item> The Israelites in the    Wilderness</item>
+	<item> The Ten Commandments</item>
+	<item> The Golden Calf</item>
+	<item> The Tabernacle</item>
+	<item> Forty Years in the Wilderness</item>
+	<item> Joshua</item>
+	<item> Ruth and Naomi</item>
+	<item> Samuel</item>
+	<item> King Saul</item>
+	<item> Young David</item>
+	<item> David and Goliath</item>
+	<item> King David</item>
+	<item> King Solomon</item>
+	<item> The Temple</item>
+	<item> The Divided Kingdom</item>
+	<item> The Prophet Elijah</item>
+	<item> Elijah and the Priests of    Baal</item>
+	<item> Elijah Talks with Jesus</item>
+	<item> Elijah and Elisha</item>
+	<item> Three    Miracles</item>
+	<item> Jonah</item>
+	<item> The Israelites Are Captured</item>
+	<item> Daniel and His Friends</item>
+	<item> Daniel and the King\'s Dream</item>
+	<item> Shadrach, Meshach, and    Abed-nego</item>
+	<item> Daniel and the Lions\' Den</item>
+	<item> Return to Jerusalem</item>
+	<item> Esther</item>
+	<item> Job</item>
+	<item> The Prophets Tell about Jesus</item>
+	<item> After the Old Testament</item>
+</string-array>
+
+<string-array name="chapterFiles">
+	<item>2010-12-01-chapter-1-before-the-old-testament</item>
+	<item>2010-12-02-chapter-2-jesus-makes-the-earth</item>
+	<item>2010-12-03-chapter-3-adam-and-eve</item>
+	<item>2010-12-04-chapter-4-adam-and-his-family</item>
+	<item>2010-12-05-chapter-5-enoch</item>
+	<item>2010-12-06-chapter-6-noah</item>
+	<item>2010-12-07-chapter-7-the-tower-of-babel</item>
+	<item>2010-12-08-chapter-8-abraham</item>
+	<item>2010-12-09-chapter-9-abraham-and-the-sacrifice-of-isaac</item>
+	<item>2010-12-10-chapter-10-jacob-and-esau</item>
+	<item>2010-12-11-chapter-11-jacob-and-his-family</item>
+	<item>2010-12-12-chapter-12-joseph</item>
+	<item>2010-12-13-chapter-13-joseph-in-egypt</item>
+	<item>2010-12-14-chapter-14-josephs-brothers-in-egypt</item>
+	<item>2010-12-15-chapter-15-the-baby-moses</item>
+	<item>2010-12-16-chapter-16-the-prophet-moses</item>
+	<item>2010-12-17-chapter-17-the-passover</item>
+	<item>2010-12-18-chapter-18-the-israelites-in-the-wilderness</item>
+	<item>2010-12-19-chapter-19-the-ten-commandments</item>
+	<item>2010-12-20-chapter-20-the-golden-calf</item>
+	<item>2010-12-21-chapter-21-the-tabernacle</item>
+	<item>2010-12-22-chapter-22-forty-years-in-the-wilderness</item>
+	<item>2010-12-23-chapter-23-joshua</item>
+	<item>2010-12-24-chapter-24-ruth-and-naomi</item>
+	<item>2010-12-25-chapter-25-samuel</item>
+	<item>2010-12-26-chapter-26-king-saul</item>
+	<item>2010-12-27-chapter-27-young-david</item>
+	<item>2010-12-28-chapter-28-david-and-Goliath</item>
+	<item>2010-12-29-chapter-29-king-david</item>
+	<item>2010-12-30-chapter-30-king-solomon</item>
+	<item>2010-12-31-chapter-31-the-temple</item>
+	<item>2010-12-32-chapter-32-the-divided-kingdom</item>
+	<item>2010-12-33-chapter-33-the-prophet-elijah</item>
+	<item>2010-12-34-chapter-34-elijah-and-the-priests-of-baal</item>
+	<item>2010-12-35-chapter-35-elijah-talks-with-jesus</item>
+	<item>2010-12-36-chapter-36-elijah-and-elisha</item>
+	<item>2010-12-37-chapter-37-the-prophet-elisha-three-miracles</item>
+	<item>2010-12-38-chapter-38-jonah</item>
+	<item>2010-12-39-chapter-39-the-israelites-are-captured</item>
+	<item>2010-12-40-chapter-40-daniel-and-his-friends</item>
+	<item>2010-12-41-chapter-41-daniel-and-the-kings-dream</item>
+	<item>2010-12-42-chapter-42-shadrach-meshach-and-abednego</item>
+	<item>2010-12-43-chapter-43-daniel-and-the-lions-den</item>
+	<item>2010-12-44-chapter-44-return-to-jerusalem</item>
+	<item>2010-12-45-chapter-45-esther</item>
+	<item>2010-12-46-chapter-46-job</item>
+	<item>2010-12-47-chapter-47-the-prophets-tell-about-jesus</item>
+	<item>2010-12-48-chapter-48-after-the-old-testament</item>
+</string-array>
+
+</resources>

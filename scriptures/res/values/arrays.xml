@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="qualityArray">
+   <item>360p</item>
+   <item>720p</item>
+   <item>1080p</item>
+</string-array>
+ 
+<string-array name="mediaTypeArray">
+   <item>mp4</item>
+   <item>wmv</item>
+</string-array>
+
+<string-array name="languageArray">
+   <item>Deutsch</item>
+   <item>English</item>
+   <item>Español</item>
+   <item>Français</item>
+   <item>Italiano</item>
+   <item>Português</item>
+   <item>Русский</item>
+   <item>國語</item>
+   <item>廣東話</item>
+   <item>日本語</item>
+   <item>한국어</item>
+</string-array>
+
+<string-array name="languageValues">
+   <item>deu</item>
+   <item>eng</item>
+   <item>spa</item>
+   <item>fra</item>
+   <item>ita</item>
+   <item>por</item>
+   <item>rus</item>
+   <item>cmn</item>
+   <item>yue</item>
+   <item>jpn</item>
+   <item>kor</item>
+</string-array>
+
+</resources>

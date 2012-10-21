@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="TypographyDashes" severity="ignore" />
+    <issue id="TypographyEllipsis">
+        <ignore path="res/values/arrays.xml" />
+    </issue>
+</lint>

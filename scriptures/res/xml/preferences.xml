@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+  <PreferenceCategory android:title="Media Settings">
+    <ListPreference
+        android:title="Quality"
+        android:summary="Quality of video playback/download (note 1080p dowload is large!)"
+        android:key="qualityPref"
+        android:defaultValue="360p"
+        android:entries="@array/qualityArray"
+        android:entryValues="@array/qualityArray" />
+    <ListPreference
+        android:title="Type"
+        android:summary="Some devices/mediaplayers prefer .wmv, others .mp4"
+        android:key="mediaTypePref"
+        android:defaultValue="mp4"
+        android:entries="@array/mediaTypeArray"
+        android:entryValues="@array/mediaTypeArray" />
+  </PreferenceCategory>
+  <PreferenceCategory
+      android:title="App Settings">
+    <ListPreference
+        android:title="Language"
+        android:summary="Language of videos and chapter descriptions"
+        android:key="languagePref"
+        android:defaultValue="eng"
+        android:entries="@array/languageArray"
+        android:entryValues="@array/languageValues" />
+  </PreferenceCategory>    
+</PreferenceScreen>

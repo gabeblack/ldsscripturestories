@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+  <RelativeLayout 
+      android:layout_width="81dip"
+        android:layout_height="50dip"
+        android:layout_marginTop="2dip"
+        android:layout_marginLeft="2dip"
+        android:layout_marginRight="6dip"
+        android:layout_marginBottom="2dip"
+    >
+    <ImageView
+        android:contentDescription="@string/chapter_icon_desc"
+        android:id="@+id/chapter_icon"
+      	android:layout_width="fill_parent"
+ 	  	android:layout_height="fill_parent"
+        android:src="@drawable/bom" >
+    </ImageView>
+    <ImageView
+        android:contentDescription="@string/downloaded_desc"
+        android:id="@+id/downloaded_id"
+      	android:layout_width="20dip"
+ 	  	android:layout_height="20dip"
+ 	  	android:layout_alignParentRight="true"
+ 	  	android:layout_alignParentBottom="true"
+ 	  	android:layout_marginRight="6dip"
+        android:src="@drawable/downloaded" > 
+    </ImageView>
+    <ImageView
+        android:contentDescription="@string/bookmark_desc"
+        android:id="@+id/bookmark_id"
+      	android:layout_width="20dip"
+ 	  	android:layout_height="20dip"
+        android:layout_alignParentLeft="true"
+ 	  	android:layout_alignParentBottom="true"
+ 	  	android:layout_marginLeft="6dip"
+        android:src="@drawable/bookmark" >
+    </ImageView>
+    <ProgressBar android:id="@+id/pb"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="fill_parent" 
+        android:layout_height="7dip"
+        android:indeterminate="false"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="6dip"
+        android:layout_marginLeft="6dip"
+        android:layout_marginRight="6dip"
+        android:layout_gravity="center_vertical|center_horizontal"
+        />
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_vertical"
+        android:text="@+id/label"
+       	android:textSize="19dip"
+         >
+    </TextView>
+
+</LinearLayout>
